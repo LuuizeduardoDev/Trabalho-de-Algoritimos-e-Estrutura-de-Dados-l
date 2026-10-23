@@ -1,3 +1,4 @@
+package problema_15;
 
 public class Ordenacao_Notas {
 
@@ -22,7 +23,7 @@ public class Ordenacao_Notas {
         }
 
         for (double ordernacao : notas) {
-            System.out.print(ordernacao + " ");
+            System.out.print(ordernacao + " " + " | ");
         }
     }
 
