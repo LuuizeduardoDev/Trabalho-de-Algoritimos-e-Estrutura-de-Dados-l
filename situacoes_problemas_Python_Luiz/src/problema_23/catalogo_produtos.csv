@@ -1,0 +1,1201 @@
+codigo;nome;categoria;preco;popularidade;avaliacao
+P00001;Jogo de cama Boreal Plus 4;Casa e Cozinha;1264.90;8;3.6
+P00002;Escada de alumínio Atlas Max 1;Ferramentas;231.90;0;4.5
+P00003;Ventilador de mesa Aurora Ultra 6;Casa e Cozinha;89.90;1;5.0
+P00004;Cabo USB-C Vértice X 2;Celulares;381.90;2;4.0
+P00005;Parafusadeira Zênite Mini 1;Ferramentas;658.90;3;4.0
+P00006;Jogo de chaves Lince Ultra 7;Ferramentas;895.90;2;4.3
+P00007;Suporte veicular Atlas Lite 4;Celulares;1280.90;21;4.9
+P00008;Jogo de facas Lince Ultra 3;Casa e Cozinha;256.90;1;4.0
+P00009;Ventilador de mesa Atlas Mini 9;Casa e Cozinha;188.90;1033;3.4
+P00010;Caixa de ferramentas Lince Max 5;Ferramentas;612.90;0;4.0
+P00011;Bermuda de ciclismo Atlas Ultra 6;Esporte;1710.90;2;3.5
+P00012;Caixa de ferramentas Boreal Lite 5;Ferramentas;61.90;46;4.3
+P00013;Ventilador de mesa Boreal Mini 8;Casa e Cozinha;1404.90;1;3.4
+P00014;Jogo de toalhas Atlas X 2;Casa e Cozinha;84.90;27;4.6
+P00015;Mochila de trilha Aurora Plus 1;Esporte;176.90;6;4.6
+P00016;HQ de aventura Vértice Lite 9;Livros;171.90;10;3.6
+P00017;Carrinho de controle remoto Aurora X 8;Brinquedos;272.90;59;3.6
+P00018;Bermuda de ciclismo Boreal Mini 2;Esporte;149.90;1;4.0
+P00019;Bermuda de ciclismo Kappa S 7;Esporte;988.90;6;4.2
+P00020;Aspirador de pó Vértice Lite 6;Casa e Cozinha;484.90;57;4.3
+P00021;Mouse sem fio Boreal Ultra 6;Informática;1116.90;4;4.8
+P00022;Escada de alumínio Zênite Pro 3;Ferramentas;209.90;1;3.9
+P00023;Drone infantil Zênite Max 2;Brinquedos;166.90;0;4.0
+P00024;Headset gamer Solaris Ultra 1;Informática;59.90;6;3.9
+P00025;Garrafa térmica Nimbus S 5;Esporte;155.90;4;4.6
+P00026;Carrinho de controle remoto Kappa Ultra 8;Brinquedos;796.90;21;4.4
+P00027;Barbeador elétrico Nimbus X 9;Beleza;99.90;0;4.5
+P00028;Cafeteira Solaris Lite 2;Casa e Cozinha;1188.90;9;3.3
+P00029;Cabo USB-C Nimbus Lite 6;Celulares;2047.90;3;3.8
+P00030;Romance policial Zênite Mini 9;Livros;107.90;13;3.3
+P00031;Sérum facial Kappa Pro 2;Beleza;355.90;0;4.0
+P00032;Pen drive 64 GB Nimbus Plus 9;Informática;157.90;7;4.3
+P00033;Jogo de toalhas Orion Pro 5;Casa e Cozinha;107.90;0;5.0
+P00034;Shampoo 400 ml Aurora Lite 2;Beleza;35.90;2;3.3
+P00035;Micro-ondas Zênite X 6;Casa e Cozinha;811.90;8;3.8
+P00036;Fone bluetooth Zênite Max 8;Celulares;177.90;11;3.6
+P00037;Jogo de cama Boreal Mini 7;Casa e Cozinha;123.90;21;5.0
+P00038;SSD 1 TB Orion Mini 2;Informática;144.90;4;4.5
+P00039;Hub USB-C Orion Max 9;Informática;40.90;715;4.3
+P00040;Monitor 24 pol. Boreal X 5;Informática;34.90;7;4.4
+P00041;Kit de ciência Lince S 4;Brinquedos;368.90;10;4.3
+P00042;Hub USB-C Boreal S 5;Informática;1935.90;1;3.9
+P00043;SSD 1 TB Boreal Ultra 7;Informática;121.90;2;4.9
+P00044;Luvas de academia Aurora Mini 6;Esporte;424.90;15;3.9
+P00045;Blocos de montar Aurora Max 8;Brinquedos;30.90;1;3.9
+P00046;Fone bluetooth Solaris Mini 6;Celulares;2230.90;3;4.2
+P00047;Alicate universal Boreal Ultra 5;Ferramentas;34.90;9;4.9
+P00048;Pista de corrida Lince Lite 3;Brinquedos;33.90;3;5.0
+P00049;Secador de cabelo Vértice Lite 9;Beleza;32.90;26;3.6
+P00050;Smartwatch Boreal Pro 9;Celulares;27.90;0;3.8
+P00051;Fone bluetooth Boreal Mini 5;Celulares;18.90;7;4.3
+P00052;Hidratante corporal Boreal Mini 6;Beleza;22.90;3;3.9
+P00053;Roteador Wi-Fi 6 Atlas S 6;Informática;2215.90;39;5.0
+P00054;Luvas de academia Aurora Pro 6;Esporte;269.90;1;4.0
+P00055;Micro-ondas Aurora X 2;Casa e Cozinha;165.90;1;4.6
+P00056;Bola de futebol Orion Ultra 2;Esporte;1359.90;13;4.8
+P00057;Carregador turbo Zênite Mini 2;Celulares;112.90;42;4.7
+P00058;Drone infantil Zênite X 2;Brinquedos;31.90;130;4.7
+P00059;Serra tico-tico Kappa Max 3;Ferramentas;63.90;5;3.6
+P00060;Caixa de ferramentas Orion Pro 4;Ferramentas;546.90;1;5.0
+P00061;Pelúcia Lince S 4;Brinquedos;42.90;14;4.0
+P00062;Prancha alisadora Vértice X 5;Beleza;458.90;4;4.0
+P00063;Luvas de academia Kappa Max 6;Esporte;2185.90;7;4.5
+P00064;Caixa de ferramentas Lince Lite 9;Ferramentas;365.90;10;4.5
+P00065;Quebra-cabeça 1000 peças Atlas Max 7;Brinquedos;84.90;2;5.0
+P00066;SSD 1 TB Boreal Mini 3;Informática;175.90;9;3.8
+P00067;Power bank Atlas X 1;Celulares;18.90;1;5.0
+P00068;Prancha alisadora Aurora Max 8;Beleza;114.90;8;4.9
+P00069;Quebra-cabeça 1000 peças Boreal Max 9;Brinquedos;358.90;172;5.0
+P00070;Trena 5 m Zênite Pro 5;Ferramentas;21.90;4;5.0
+P00071;Bola de futebol Aurora Mini 7;Esporte;24.90;6;3.8
+P00072;Nível a laser Orion X 6;Ferramentas;224.90;2;4.2
+P00073;Jogo de tabuleiro Aurora Ultra 3;Brinquedos;26.90;20;4.2
+P00074;Biografia Kappa S 5;Livros;32.90;0;5.0
+P00075;Smartphone 256 GB Boreal Mini 8;Celulares;537.90;26;4.9
+P00076;Nível a laser Orion X 3;Ferramentas;21.90;7;4.1
+P00077;Halteres 5 kg Boreal S 2;Esporte;1743.90;151;4.6
+P00078;Cabo USB-C Boreal Pro 9;Celulares;50.90;28;4.3
+P00079;Parafusadeira Boreal X 6;Ferramentas;1282.90;3;3.7
+P00080;Bermuda de ciclismo Boreal Pro 3;Esporte;37.90;21;3.7
+P00081;Mouse sem fio Kappa Mini 3;Informática;62.90;93;4.1
+P00082;Garrafa térmica Aurora Pro 3;Esporte;147.90;8;3.9
+P00083;SSD 1 TB Solaris X 9;Informática;48.90;11;3.2
+P00084;Luvas de academia Aurora Ultra 1;Esporte;26.90;3;4.9
+P00085;Prancha alisadora Aurora Pro 9;Beleza;29.90;21;3.7
+P00086;Tapete de yoga Solaris Ultra 4;Esporte;120.90;6;4.5
+P00087;Smartwatch Atlas X 4;Celulares;4160.90;9;3.0
+P00088;Jogo de chaves Solaris Max 2;Ferramentas;436.90;3;4.7
+P00089;Bola de futebol Nimbus Max 7;Esporte;49.90;69;4.3
+P00090;Halteres 5 kg Kappa X 7;Esporte;20.90;6;4.2
+P00091;Prancha alisadora Atlas Pro 2;Beleza;373.90;7;4.8
+P00092;Hub USB-C Orion Mini 2;Informática;344.90;3;4.1
+P00093;Jogo de toalhas Kappa Lite 2;Casa e Cozinha;390.90;0;4.8
+P00094;Suporte veicular Atlas Ultra 9;Celulares;16.90;38;3.9
+P00095;Tênis de corrida Vértice S 2;Esporte;44.90;28;4.4
+P00096;Jogo de facas Boreal Plus 6;Casa e Cozinha;637.90;2;4.2
+P00097;Trena 5 m Orion Ultra 4;Ferramentas;89.90;5;4.5
+P00098;Trena 5 m Zênite Pro 8;Ferramentas;34.90;0;3.7
+P00099;Escada de alumínio Lince Ultra 9;Ferramentas;16.90;66;4.1
+P00100;Parafusadeira Kappa Max 9;Ferramentas;60.90;16;4.3
+P00101;Pen drive 64 GB Zênite Pro 9;Informática;57.90;3;4.2
+P00102;Mochila de trilha Lince Plus 2;Esporte;974.90;4;4.4
+P00103;Notebook Solaris Lite 5;Informática;1608.90;1;4.1
+P00104;Secador de cabelo Aurora Max 9;Beleza;21.90;4;4.7
+P00105;Pen drive 64 GB Atlas Lite 4;Informática;940.90;113;4.4
+P00106;Jogo de toalhas Solaris Lite 5;Casa e Cozinha;433.90;0;4.3
+P00107;Protetor solar FPS 50 Boreal Pro 9;Beleza;191.90;7;4.3
+P00108;Boneca articulada Boreal S 8;Brinquedos;33.90;0;5.0
+P00109;Smartwatch Boreal Plus 8;Celulares;754.90;1;4.3
+P00110;Kit de ciência Kappa Pro 8;Brinquedos;34.90;3;4.9
+P00111;Bermuda de ciclismo Boreal Max 8;Esporte;1336.90;1;4.3
+P00112;Liquidificador Aurora S 2;Casa e Cozinha;1663.90;5;3.9
+P00113;Suporte veicular Orion X 2;Celulares;1118.90;7;4.0
+P00114;Película de vidro Kappa Pro 5;Celulares;1144.90;0;3.9
+P00115;Pen drive 64 GB Nimbus Ultra 2;Informática;108.90;5;4.9
+P00116;Jogo de chaves Vértice Pro 1;Ferramentas;230.90;2;3.9
+P00117;Carregador turbo Aurora Ultra 5;Celulares;3703.90;3;3.8
+P00118;Air fryer Solaris X 8;Casa e Cozinha;910.90;25;3.8
+P00119;Barbeador elétrico Atlas Mini 5;Beleza;85.90;8;3.1
+P00120;Bola de futebol Zênite Lite 4;Esporte;55.90;12;4.4
+P00121;Película de vidro Orion Pro 2;Celulares;56.90;0;3.9
+P00122;Dicionário escolar Boreal Mini 9;Livros;66.90;3;4.8
+P00123;Prancha alisadora Atlas Max 3;Beleza;111.90;0;3.9
+P00124;Corda de pular Zênite Pro 8;Esporte;2343.90;9;3.9
+P00125;Roteador Wi-Fi 6 Kappa Lite 9;Informática;178.90;2;2.8
+P00126;Sérum facial Boreal X 6;Beleza;312.90;6;5.0
+P00127;Webcam Full HD Boreal S 7;Informática;812.90;42;4.8
+P00128;Fone bluetooth Aurora Plus 4;Celulares;52.90;5;3.4
+P00129;Power bank Nimbus S 9;Celulares;44.90;0;4.4
+P00130;Livro infantil ilustrado Vértice Ultra 6;Livros;83.90;379;4.3
+P00131;Aspirador de pó Solaris X 5;Casa e Cozinha;1278.90;0;4.7
+P00132;Mochila de trilha Lince Plus 2;Esporte;1081.90;1;4.4
+P00133;Nível a laser Zênite Pro 2;Ferramentas;21.90;1;2.9
+P00134;Micro-ondas Lince Pro 2;Casa e Cozinha;43.90;4;4.7
+P00135;Ventilador de mesa Atlas Lite 8;Casa e Cozinha;250.90;15;4.8
+P00136;Smartphone 256 GB Kappa Max 7;Celulares;28.90;73;4.2
+P00137;Monitor 24 pol. Zênite Mini 5;Informática;1829.90;4;4.5
+P00138;Aspirador de pó Vértice Mini 6;Casa e Cozinha;207.90;8;4.4
+P00139;Kit de maquiagem Zênite Pro 9;Beleza;76.90;0;3.7
+P00140;Shampoo 400 ml Kappa Max 8;Beleza;25.90;21;3.8
+P00141;Hidratante corporal Kappa Plus 4;Beleza;13.90;1;3.5
+P00142;Jogo de cama Lince S 8;Casa e Cozinha;418.90;11;3.7
+P00143;Kit de ciência Atlas X 7;Brinquedos;86.90;16;3.8
+P00144;Barbeador elétrico Aurora X 7;Beleza;93.90;8;4.5
+P00145;Esmalte Boreal Lite 2;Beleza;338.90;4;3.3
+P00146;Perfume 100 ml Solaris Max 1;Beleza;17.90;1;5.0
+P00147;Massinha de modelar Boreal Ultra 2;Brinquedos;259.90;6;4.1
+P00148;Bola de futebol Lince Max 2;Esporte;571.90;0;4.1
+P00149;Air fryer Zênite S 1;Casa e Cozinha;67.90;111;4.1
+P00150;Shampoo 400 ml Orion Ultra 4;Beleza;670.90;4;4.2
+P00151;Halteres 5 kg Boreal Pro 7;Esporte;632.90;0;4.8
+P00152;Alicate universal Nimbus Lite 5;Ferramentas;482.90;0;4.1
+P00153;Corda de pular Solaris Mini 8;Esporte;250.90;1;3.8
+P00154;Perfume 100 ml Vértice Max 8;Beleza;66.90;3;5.0
+P00155;Panela de pressão Orion Plus 5;Casa e Cozinha;337.90;1;4.2
+P00156;Micro-ondas Vértice Max 8;Casa e Cozinha;344.90;18;4.7
+P00157;Garrafa térmica Nimbus Max 9;Esporte;67.90;0;4.2
+P00158;Boneca articulada Solaris Pro 6;Brinquedos;128.90;42;5.0
+P00159;Bermuda de ciclismo Kappa Lite 9;Esporte;105.90;57;4.1
+P00160;SSD 1 TB Nimbus Mini 8;Informática;239.90;18;3.6
+P00161;Cafeteira Kappa Plus 5;Casa e Cozinha;1675.90;22;4.6
+P00162;Secador de cabelo Aurora Plus 5;Beleza;319.90;0;4.4
+P00163;HQ de aventura Boreal Lite 1;Livros;182.90;1;3.9
+P00164;Barbeador elétrico Boreal S 6;Beleza;127.90;8;3.9
+P00165;Pen drive 64 GB Zênite Ultra 8;Informática;1159.90;0;3.5
+P00166;Atlas geográfico Kappa X 7;Livros;66.90;16;3.3
+P00167;Webcam Full HD Atlas Lite 1;Informática;365.90;29;3.9
+P00168;Quebra-cabeça 1000 peças Kappa Plus 4;Brinquedos;107.90;9;4.2
+P00169;Kit de maquiagem Atlas Lite 2;Beleza;15.90;113;3.9
+P00170;Tapete de yoga Zênite Mini 3;Esporte;88.90;4;4.3
+P00171;Smartwatch Boreal S 4;Celulares;25.90;3;3.9
+P00172;Serra tico-tico Orion Max 6;Ferramentas;173.90;27;4.5
+P00173;Secador de cabelo Vértice Ultra 3;Beleza;32.90;17;4.9
+P00174;Alicate universal Aurora Mini 5;Ferramentas;331.90;9;3.9
+P00175;Barbeador elétrico Orion Plus 7;Beleza;560.90;5;4.2
+P00176;Jogo de toalhas Vértice Lite 9;Casa e Cozinha;1130.90;1;3.6
+P00177;Massinha de modelar Orion Max 5;Brinquedos;209.90;2;3.7
+P00178;Barbeador elétrico Kappa Ultra 9;Beleza;311.90;437;3.1
+P00179;Micro-ondas Nimbus Mini 5;Casa e Cozinha;185.90;1;4.9
+P00180;Cabo USB-C Aurora Lite 2;Celulares;20.90;0;4.0
+P00181;Pen drive 64 GB Nimbus Lite 1;Informática;400.90;16;4.0
+P00182;Notebook Zênite Pro 8;Informática;86.90;1;4.1
+P00183;Drone infantil Aurora Max 1;Brinquedos;73.90;198;3.4
+P00184;Aspirador de pó Lince Plus 2;Casa e Cozinha;129.90;1;4.3
+P00185;Air fryer Aurora Pro 1;Casa e Cozinha;102.90;1;5.0
+P00186;Notebook Aurora Lite 5;Informática;72.90;1;4.5
+P00187;Jogo de chaves Lince Ultra 2;Ferramentas;67.90;3;4.4
+P00188;Teclado mecânico Nimbus S 8;Informática;37.90;12;3.8
+P00189;Bermuda de ciclismo Atlas Ultra 1;Esporte;1304.90;18;3.9
+P00190;Tapete de yoga Zênite Plus 4;Esporte;51.90;0;4.0
+P00191;Mochila de trilha Vértice S 2;Esporte;117.90;31;4.7
+P00192;Jogo de toalhas Atlas Lite 7;Casa e Cozinha;245.90;3;4.7
+P00193;Esmalte Orion Lite 7;Beleza;69.90;101;4.3
+P00194;Caixa de ferramentas Boreal Pro 6;Ferramentas;200.90;1;4.0
+P00195;Liquidificador Kappa Plus 8;Casa e Cozinha;1261.90;36;5.0
+P00196;Carregador turbo Solaris S 7;Celulares;1635.90;6;4.1
+P00197;Bermuda de ciclismo Aurora Pro 1;Esporte;254.90;36;5.0
+P00198;Secador de cabelo Nimbus Lite 5;Beleza;22.90;1;3.9
+P00199;Manual de finanças Aurora X 1;Livros;47.90;32;3.8
+P00200;Furadeira de impacto Kappa Plus 6;Ferramentas;25.90;43;3.7
+P00201;Teclado mecânico Solaris Max 3;Informática;184.90;1;3.2
+P00202;Película de vidro Atlas Pro 8;Celulares;148.90;0;3.6
+P00203;Bola de futebol Zênite S 2;Esporte;46.90;1;4.7
+P00204;Furadeira de impacto Aurora Pro 3;Ferramentas;38.90;3;4.1
+P00205;Suporte veicular Orion Max 5;Celulares;54.90;5;4.4
+P00206;Blocos de montar Vértice Max 6;Brinquedos;37.90;13;3.1
+P00207;Webcam Full HD Solaris Ultra 2;Informática;1393.90;47;4.2
+P00208;Liquidificador Kappa Max 4;Casa e Cozinha;454.90;0;4.0
+P00209;Pista de corrida Orion Lite 9;Brinquedos;241.90;158;4.5
+P00210;Kit de maquiagem Vértice S 2;Beleza;15.90;46;4.2
+P00211;Monitor 24 pol. Nimbus X 1;Informática;68.90;3;4.5
+P00212;Air fryer Kappa Pro 5;Casa e Cozinha;951.90;20;4.6
+P00213;Livro de fantasia Vértice Lite 9;Livros;26.90;1;3.3
+P00214;Cafeteira Orion Pro 2;Casa e Cozinha;1312.90;0;4.1
+P00215;Tapete de yoga Boreal S 4;Esporte;211.90;38;4.4
+P00216;Smartphone 128 GB Kappa Lite 6;Celulares;87.90;1;3.6
+P00217;Cabo USB-C Orion Mini 3;Celulares;66.90;15;3.3
+P00218;Liquidificador Zênite Ultra 5;Casa e Cozinha;106.90;9;4.6
+P00219;Smartwatch Aurora Mini 8;Celulares;24.90;8;4.1
+P00220;Pelúcia Aurora Mini 7;Brinquedos;88.90;4;4.3
+P00221;Smartphone 128 GB Orion S 5;Celulares;852.90;1;2.9
+P00222;Corda de pular Boreal Ultra 8;Esporte;33.90;8;4.1
+P00223;Carregador turbo Kappa Mini 7;Celulares;1846.90;2;4.7
+P00224;Parafusadeira Aurora X 7;Ferramentas;165.90;21;3.2
+P00225;Corda de pular Lince Lite 8;Esporte;102.90;5;4.7
+P00226;Carregador turbo Boreal Lite 8;Celulares;391.90;1;4.0
+P00227;Dicionário escolar Lince Pro 3;Livros;21.90;9;4.6
+P00228;Boneca articulada Zênite Ultra 2;Brinquedos;36.90;0;3.8
+P00229;Caixa de ferramentas Aurora Lite 3;Ferramentas;438.90;20;4.2
+P00230;Furadeira de impacto Vértice S 3;Ferramentas;1234.90;6;4.3
+P00231;Secador de cabelo Atlas Pro 1;Beleza;253.90;14;4.4
+P00232;Kit de maquiagem Vértice Ultra 8;Beleza;41.90;57;3.8
+P00233;Carregador turbo Solaris Pro 4;Celulares;28.90;12;4.7
+P00234;Bola de futebol Kappa Plus 6;Esporte;1122.90;1;3.9
+P00235;Hidratante corporal Atlas S 8;Beleza;22.90;3;4.5
+P00236;Notebook Solaris Pro 2;Informática;58.90;4;4.8
+P00237;Cabo USB-C Lince Pro 3;Celulares;223.90;0;2.8
+P00238;Liquidificador Zênite Mini 8;Casa e Cozinha;56.90;10;4.0
+P00239;Bermuda de ciclismo Orion Pro 3;Esporte;26.90;2;3.5
+P00240;Escada de alumínio Boreal Max 8;Ferramentas;23.90;12;5.0
+P00241;Livro de fantasia Orion Pro 7;Livros;137.90;0;3.4
+P00242;Blocos de montar Vértice Plus 5;Brinquedos;91.90;72;4.6
+P00243;Shampoo 400 ml Aurora S 6;Beleza;453.90;6;3.8
+P00244;Mouse sem fio Atlas Mini 9;Informática;166.90;40;5.0
+P00245;Panela de pressão Vértice Max 4;Casa e Cozinha;51.90;17;3.8
+P00246;Hub USB-C Solaris Ultra 9;Informática;1425.90;0;4.4
+P00247;Massinha de modelar Lince Plus 1;Brinquedos;31.90;0;3.9
+P00248;Jogo de tabuleiro Kappa Mini 7;Brinquedos;31.90;0;3.0
+P00249;Drone infantil Orion Max 3;Brinquedos;344.90;0;4.4
+P00250;Roteador Wi-Fi 6 Nimbus Plus 9;Informática;895.90;8;4.6
+P00251;SSD 1 TB Zênite X 4;Informática;3194.90;18;4.5
+P00252;HQ de aventura Lince Ultra 6;Livros;136.90;0;4.8
+P00253;Jogo de tabuleiro Nimbus Mini 8;Brinquedos;71.90;39;3.7
+P00254;Sérum facial Boreal Lite 7;Beleza;61.90;6;4.2
+P00255;Kit de ciência Nimbus X 3;Brinquedos;158.90;2;4.2
+P00256;Película de vidro Kappa Lite 6;Celulares;151.90;1;4.0
+P00257;Nível a laser Aurora S 5;Ferramentas;30.90;9;3.8
+P00258;Jogo de toalhas Solaris Max 2;Casa e Cozinha;241.90;74;3.7
+P00259;Jogo de toalhas Solaris Lite 8;Casa e Cozinha;114.90;4;3.6
+P00260;Suporte veicular Vértice Lite 5;Celulares;1109.90;28;4.7
+P00261;Protetor solar FPS 50 Boreal S 2;Beleza;606.90;1;4.6
+P00262;Suporte veicular Orion S 4;Celulares;27.90;2;4.2
+P00263;Jogo de tabuleiro Lince Plus 9;Brinquedos;30.90;4;4.2
+P00264;Ventilador de mesa Nimbus Mini 7;Casa e Cozinha;186.90;0;3.7
+P00265;Tênis de corrida Nimbus Mini 9;Esporte;101.90;10;3.9
+P00266;Bicicleta aro 29 Atlas Ultra 9;Esporte;27.90;5;4.8
+P00267;Lixadeira orbital Kappa S 2;Ferramentas;133.90;4;4.7
+P00268;Drone infantil Orion S 7;Brinquedos;25.90;3;3.6
+P00269;Esmalte Solaris S 8;Beleza;16.90;6;3.7
+P00270;Aspirador de pó Nimbus Mini 5;Casa e Cozinha;1191.90;4;4.2
+P00271;Alicate universal Kappa Max 7;Ferramentas;252.90;0;4.2
+P00272;Ventilador de mesa Nimbus Pro 1;Casa e Cozinha;87.90;2;4.3
+P00273;Blocos de montar Orion Lite 8;Brinquedos;420.90;4;5.0
+P00274;Prancha alisadora Atlas Plus 1;Beleza;20.90;61;4.1
+P00275;Suporte veicular Zênite Pro 4;Celulares;1100.90;1525;4.4
+P00276;Serra tico-tico Orion Plus 5;Ferramentas;38.90;28;4.8
+P00277;Jogo de cama Zênite Max 8;Casa e Cozinha;463.90;4;3.7
+P00278;Barbeador elétrico Vértice Mini 8;Beleza;29.90;1;4.6
+P00279;Halteres 5 kg Orion Pro 9;Esporte;1467.90;5;4.5
+P00280;Serra tico-tico Kappa Lite 5;Ferramentas;40.90;0;4.4
+P00281;Carregador turbo Nimbus Pro 5;Celulares;4144.90;34;4.3
+P00282;Kit de maquiagem Solaris X 2;Beleza;542.90;5;4.5
+P00283;Atlas geográfico Vértice Mini 6;Livros;119.90;2;4.2
+P00284;Pista de corrida Lince S 3;Brinquedos;475.90;5;3.7
+P00285;Bicicleta aro 29 Nimbus Lite 5;Esporte;428.90;3;4.4
+P00286;Capa protetora Lince X 9;Celulares;58.90;38;4.1
+P00287;Monitor 24 pol. Atlas Plus 1;Informática;5873.90;3;3.3
+P00288;Massinha de modelar Kappa S 1;Brinquedos;76.90;0;4.0
+P00289;Livro de receitas Aurora Lite 8;Livros;23.90;22;4.0
+P00290;Drone infantil Nimbus Pro 4;Brinquedos;470.90;6;4.7
+P00291;Livro de receitas Nimbus Pro 7;Livros;100.90;2;4.4
+P00292;Tapete de yoga Solaris Mini 4;Esporte;19.90;326;3.6
+P00293;Webcam Full HD Vértice Pro 3;Informática;2190.90;3;4.3
+P00294;Livro de fantasia Kappa Ultra 5;Livros;39.90;3;4.7
+P00295;Pelúcia Zênite Max 3;Brinquedos;197.90;67;3.6
+P00296;Livro infantil ilustrado Vértice Max 9;Livros;53.90;0;4.0
+P00297;Manual de finanças Orion Pro 7;Livros;62.90;2;3.6
+P00298;Quebra-cabeça 1000 peças Boreal Max 8;Brinquedos;101.90;1;4.1
+P00299;Dicionário escolar Boreal Pro 6;Livros;57.90;11;3.3
+P00300;Trena 5 m Aurora Lite 1;Ferramentas;164.90;89;4.5
+P00301;Alicate universal Solaris Pro 7;Ferramentas;50.90;2;4.4
+P00302;Livro infantil ilustrado Boreal Lite 5;Livros;31.90;0;4.6
+P00303;Ventilador de mesa Nimbus S 2;Casa e Cozinha;115.90;11;4.9
+P00304;Jogo de cama Nimbus Plus 7;Casa e Cozinha;1837.90;2;5.0
+P00305;Power bank Orion Pro 7;Celulares;16.90;7;4.4
+P00306;Pista de corrida Zênite Max 9;Brinquedos;53.90;1;4.1
+P00307;Headset gamer Atlas Lite 2;Informática;97.90;0;4.1
+P00308;Smartphone 128 GB Vértice S 7;Celulares;2505.90;113;4.3
+P00309;Hidratante corporal Atlas Ultra 9;Beleza;35.90;4;3.4
+P00310;Ventilador de mesa Atlas S 1;Casa e Cozinha;82.90;2;3.7
+P00311;Tapete de yoga Lince X 7;Esporte;2044.90;3;4.5
+P00312;Manual de finanças Orion Mini 8;Livros;37.90;2;4.9
+P00313;Barbeador elétrico Atlas Max 4;Beleza;189.90;4;4.3
+P00314;Smartwatch Solaris Lite 5;Celulares;66.90;0;3.3
+P00315;Air fryer Boreal Max 4;Casa e Cozinha;58.90;6;4.6
+P00316;SSD 1 TB Zênite Plus 6;Informática;94.90;0;3.9
+P00317;Furadeira de impacto Atlas Mini 5;Ferramentas;331.90;10;5.0
+P00318;Ventilador de mesa Solaris S 8;Casa e Cozinha;154.90;19;4.1
+P00319;Parafusadeira Orion X 6;Ferramentas;381.90;11;3.9
+P00320;Parafusadeira Lince Lite 1;Ferramentas;1016.90;0;4.7
+P00321;Corda de pular Lince Pro 8;Esporte;356.90;1;3.7
+P00322;Suporte veicular Atlas Plus 7;Celulares;470.90;5;4.4
+P00323;Romance policial Lince Mini 9;Livros;71.90;0;3.8
+P00324;Roteador Wi-Fi 6 Zênite Max 8;Informática;601.90;66;4.2
+P00325;Serra tico-tico Zênite S 3;Ferramentas;27.90;3;4.1
+P00326;Barbeador elétrico Vértice Mini 9;Beleza;14.90;20;4.1
+P00327;Corda de pular Zênite X 6;Esporte;2158.90;2;3.3
+P00328;Hidratante corporal Aurora Pro 6;Beleza;26.90;7;3.5
+P00329;Headset gamer Lince Max 9;Informática;3675.90;2;3.7
+P00330;SSD 1 TB Atlas Lite 9;Informática;1987.90;4;4.9
+P00331;Smartphone 256 GB Solaris Ultra 6;Celulares;19.90;84;3.6
+P00332;Aspirador de pó Nimbus Pro 7;Casa e Cozinha;597.90;2;3.8
+P00333;Bola de futebol Atlas Lite 8;Esporte;286.90;5;3.7
+P00334;Sérum facial Nimbus Mini 6;Beleza;22.90;1;4.2
+P00335;Blocos de montar Kappa Max 6;Brinquedos;33.90;34;3.3
+P00336;Kit de maquiagem Kappa Max 9;Beleza;18.90;4;4.6
+P00337;Aspirador de pó Boreal Max 6;Casa e Cozinha;176.90;52;4.9
+P00338;Capa protetora Vértice Lite 5;Celulares;283.90;0;4.7
+P00339;Carrinho de controle remoto Kappa Ultra 9;Brinquedos;118.90;1;4.4
+P00340;Alicate universal Orion Ultra 5;Ferramentas;143.90;5;4.2
+P00341;Panela de pressão Vértice Lite 9;Casa e Cozinha;58.90;0;4.2
+P00342;Livro de receitas Lince X 5;Livros;182.90;5;4.3
+P00343;Jogo de chaves Nimbus Max 8;Ferramentas;487.90;1;4.5
+P00344;Parafusadeira Aurora Mini 6;Ferramentas;683.90;1;3.6
+P00345;Aspirador de pó Vértice Plus 5;Casa e Cozinha;808.90;2;4.4
+P00346;Mouse sem fio Vértice Pro 2;Informática;78.90;9;4.8
+P00347;Smartwatch Lince Plus 3;Celulares;1939.90;9;5.0
+P00348;Guia de Python Boreal Pro 6;Livros;182.90;0;4.1
+P00349;Teclado mecânico Kappa S 6;Informática;317.90;0;4.8
+P00350;Halteres 5 kg Zênite Plus 4;Esporte;495.90;6;4.1
+P00351;Jogo de toalhas Lince Pro 1;Casa e Cozinha;88.90;18;3.8
+P00352;Guia de Python Atlas Plus 7;Livros;183.90;14;4.9
+P00353;HQ de aventura Zênite Pro 9;Livros;41.90;0;4.9
+P00354;Halteres 5 kg Kappa Pro 2;Esporte;1375.90;1;4.4
+P00355;Biografia Atlas Ultra 3;Livros;25.90;64;3.2
+P00356;Drone infantil Zênite S 2;Brinquedos;724.90;26;3.9
+P00357;Boneca articulada Aurora X 6;Brinquedos;40.90;0;3.7
+P00358;Aspirador de pó Boreal Ultra 3;Casa e Cozinha;336.90;2;3.4
+P00359;Teclado mecânico Orion S 8;Informática;79.90;31;4.4
+P00360;Bola de futebol Vértice S 9;Esporte;71.90;3;4.0
+P00361;Protetor solar FPS 50 Zênite X 8;Beleza;16.90;17;4.2
+P00362;Dicionário escolar Kappa Max 5;Livros;163.90;0;4.3
+P00363;Jogo de facas Aurora Ultra 1;Casa e Cozinha;51.90;2;3.5
+P00364;Tênis de corrida Kappa Lite 5;Esporte;650.90;7;4.0
+P00365;Pen drive 64 GB Solaris X 1;Informática;42.90;0;3.7
+P00366;Tênis de corrida Aurora Max 5;Esporte;137.90;2;3.9
+P00367;Notebook Kappa Lite 8;Informática;226.90;0;4.7
+P00368;Furadeira de impacto Orion Max 4;Ferramentas;82.90;3;4.7
+P00369;Mouse sem fio Vértice Plus 1;Informática;561.90;4;4.4
+P00370;Mouse sem fio Vértice X 4;Informática;417.90;29;4.2
+P00371;Panela de pressão Vértice Ultra 3;Casa e Cozinha;1282.90;0;3.9
+P00372;Massinha de modelar Zênite Mini 1;Brinquedos;65.90;0;4.3
+P00373;Romance policial Solaris Plus 4;Livros;72.90;0;3.9
+P00374;Carregador turbo Kappa Lite 9;Celulares;29.90;4;3.4
+P00375;Boneca articulada Lince Lite 7;Brinquedos;489.90;16;4.5
+P00376;Sérum facial Lince X 7;Beleza;217.90;12;4.4
+P00377;Quebra-cabeça 1000 peças Atlas Mini 7;Brinquedos;69.90;49;4.3
+P00378;Parafusadeira Orion Ultra 6;Ferramentas;522.90;191;4.3
+P00379;Roteador Wi-Fi 6 Aurora Lite 9;Informática;111.90;55;4.1
+P00380;Biografia Nimbus Ultra 6;Livros;21.90;5;4.6
+P00381;Dicionário escolar Kappa Mini 1;Livros;44.90;2;4.3
+P00382;Carregador turbo Vértice Lite 4;Celulares;1039.90;140;4.5
+P00383;Headset gamer Orion Plus 3;Informática;67.90;33;3.8
+P00384;Kit de ciência Zênite Lite 4;Brinquedos;490.90;28;3.7
+P00385;Prancha alisadora Kappa S 3;Beleza;222.90;5;5.0
+P00386;Parafusadeira Vértice Max 1;Ferramentas;79.90;4;4.0
+P00387;Aspirador de pó Atlas S 6;Casa e Cozinha;40.90;12;3.2
+P00388;Furadeira de impacto Solaris Max 7;Ferramentas;193.90;8;4.9
+P00389;Fone bluetooth Solaris S 5;Celulares;367.90;1;4.8
+P00390;Livro de fantasia Nimbus Ultra 6;Livros;118.90;3;4.0
+P00391;Notebook Kappa S 1;Informática;4032.90;1;3.9
+P00392;Smartphone 256 GB Solaris Plus 8;Celulares;338.90;9;4.2
+P00393;Panela de pressão Kappa Pro 5;Casa e Cozinha;442.90;6;4.1
+P00394;Carrinho de controle remoto Nimbus X 4;Brinquedos;202.90;7;4.9
+P00395;Guia de Python Nimbus S 4;Livros;25.90;8;4.4
+P00396;Monitor 24 pol. Atlas Ultra 6;Informática;3911.90;0;4.3
+P00397;Capa protetora Vértice Mini 5;Celulares;1005.90;0;4.0
+P00398;Massinha de modelar Lince X 5;Brinquedos;361.90;4;5.0
+P00399;Pen drive 64 GB Orion Mini 9;Informática;686.90;27;3.8
+P00400;Garrafa térmica Solaris S 2;Esporte;146.90;20;4.2
+P00401;Pista de corrida Zênite S 7;Brinquedos;598.90;13;4.0
+P00402;Jogo de chaves Solaris X 4;Ferramentas;386.90;2;3.3
+P00403;Livro infantil ilustrado Boreal S 4;Livros;49.90;14;4.0
+P00404;Mouse sem fio Lince Mini 2;Informática;351.90;9;3.5
+P00405;Massinha de modelar Lince Mini 9;Brinquedos;86.90;3;4.1
+P00406;Liquidificador Aurora S 5;Casa e Cozinha;53.90;5;3.9
+P00407;Panela de pressão Aurora X 3;Casa e Cozinha;1302.90;2;4.8
+P00408;Jogo de toalhas Nimbus Max 1;Casa e Cozinha;498.90;1;4.3
+P00409;Protetor solar FPS 50 Aurora Lite 5;Beleza;15.90;5;4.1
+P00410;Smartphone 128 GB Atlas Plus 7;Celulares;71.90;4;4.6
+P00411;Romance policial Boreal Mini 6;Livros;34.90;11;4.0
+P00412;Livro de receitas Nimbus X 5;Livros;39.90;9;3.8
+P00413;Air fryer Atlas Mini 1;Casa e Cozinha;166.90;2;3.9
+P00414;SSD 1 TB Nimbus Lite 5;Informática;278.90;5;4.1
+P00415;Teclado mecânico Vértice Pro 6;Informática;52.90;23;3.1
+P00416;Escada de alumínio Kappa S 5;Ferramentas;18.90;20;4.4
+P00417;Jogo de chaves Boreal S 9;Ferramentas;47.90;0;3.6
+P00418;Massinha de modelar Lince Lite 4;Brinquedos;29.90;4;4.5
+P00419;Jogo de facas Atlas X 2;Casa e Cozinha;46.90;13;4.1
+P00420;Fone bluetooth Boreal Mini 7;Celulares;24.90;3;4.7
+P00421;Livro de fantasia Boreal Plus 4;Livros;27.90;6;3.9
+P00422;Bermuda de ciclismo Lince Max 5;Esporte;180.90;9;4.8
+P00423;Smartphone 128 GB Kappa Lite 2;Celulares;1740.90;20;5.0
+P00424;Smartphone 256 GB Nimbus Mini 2;Celulares;123.90;187;3.5
+P00425;Kit de maquiagem Boreal Lite 4;Beleza;27.90;32;4.9
+P00426;Livro de fantasia Vértice Lite 4;Livros;104.90;25;4.5
+P00427;Jogo de chaves Zênite Pro 8;Ferramentas;31.90;25;4.4
+P00428;Bermuda de ciclismo Boreal S 9;Esporte;150.90;0;3.2
+P00429;Carregador turbo Nimbus Ultra 1;Celulares;125.90;27;4.2
+P00430;Jogo de facas Orion Lite 8;Casa e Cozinha;96.90;16;4.3
+P00431;Tapete de yoga Zênite Plus 2;Esporte;53.90;0;4.7
+P00432;Pen drive 64 GB Atlas Mini 8;Informática;2883.90;7;3.4
+P00433;Cabo USB-C Solaris Plus 5;Celulares;464.90;12;3.8
+P00434;Livro de fantasia Nimbus Max 1;Livros;37.90;32;4.8
+P00435;Protetor solar FPS 50 Boreal Ultra 4;Beleza;59.90;1;4.6
+P00436;Romance policial Nimbus Plus 3;Livros;54.90;16;4.1
+P00437;Corda de pular Nimbus Ultra 1;Esporte;31.90;5;3.9
+P00438;Hidratante corporal Lince X 2;Beleza;26.90;1;3.2
+P00439;Bicicleta aro 29 Atlas Lite 9;Esporte;30.90;1;4.0
+P00440;Protetor solar FPS 50 Orion X 5;Beleza;115.90;12;4.4
+P00441;Hub USB-C Aurora Pro 3;Informática;1898.90;13;4.0
+P00442;Prancha alisadora Lince X 1;Beleza;49.90;1;3.9
+P00443;Hidratante corporal Nimbus X 4;Beleza;19.90;95;5.0
+P00444;Protetor solar FPS 50 Nimbus Mini 4;Beleza;25.90;0;4.3
+P00445;Hidratante corporal Orion S 6;Beleza;29.90;10;4.9
+P00446;Tapete de yoga Nimbus Max 8;Esporte;198.90;18;4.0
+P00447;Blocos de montar Vértice Pro 3;Brinquedos;142.90;0;4.5
+P00448;Headset gamer Solaris Lite 5;Informática;3130.90;16;3.9
+P00449;Carrinho de controle remoto Solaris Lite 4;Brinquedos;81.90;0;3.7
+P00450;Barbeador elétrico Zênite Lite 9;Beleza;47.90;1;4.1
+P00451;Atlas geográfico Solaris Lite 9;Livros;121.90;0;3.1
+P00452;Protetor solar FPS 50 Solaris Pro 1;Beleza;85.90;3;4.7
+P00453;Livro infantil ilustrado Kappa S 1;Livros;38.90;6;3.8
+P00454;Ventilador de mesa Boreal Mini 1;Casa e Cozinha;854.90;2;3.1
+P00455;Jogo de facas Kappa S 1;Casa e Cozinha;1405.90;3;4.6
+P00456;Trena 5 m Orion Max 2;Ferramentas;504.90;15;4.7
+P00457;Nível a laser Zênite Plus 2;Ferramentas;971.90;19;5.0
+P00458;Monitor 24 pol. Vértice Max 4;Informática;51.90;0;4.5
+P00459;Prancha alisadora Kappa Mini 6;Beleza;281.90;15;4.1
+P00460;Aspirador de pó Kappa Ultra 4;Casa e Cozinha;93.90;19;4.0
+P00461;Suporte veicular Kappa Max 3;Celulares;470.90;5;4.2
+P00462;Manual de finanças Aurora X 1;Livros;20.90;30;4.7
+P00463;Tênis de corrida Vértice Max 2;Esporte;89.90;0;4.2
+P00464;Teclado mecânico Atlas Max 3;Informática;3733.90;3;5.0
+P00465;HQ de aventura Lince Ultra 7;Livros;107.90;25;4.4
+P00466;Caixa de ferramentas Vértice Max 5;Ferramentas;30.90;5;3.2
+P00467;Escada de alumínio Kappa Plus 7;Ferramentas;71.90;5;2.6
+P00468;Caixa de ferramentas Lince Ultra 8;Ferramentas;81.90;1;4.1
+P00469;Esmalte Boreal Plus 1;Beleza;26.90;1;4.3
+P00470;Micro-ondas Lince Max 6;Casa e Cozinha;1225.90;2;3.7
+P00471;Hidratante corporal Solaris Max 3;Beleza;150.90;13;4.1
+P00472;Sérum facial Kappa Plus 8;Beleza;36.90;23;3.8
+P00473;Parafusadeira Aurora Ultra 2;Ferramentas;16.90;10;4.5
+P00474;Mochila de trilha Aurora Max 1;Esporte;587.90;2;5.0
+P00475;Micro-ondas Lince S 5;Casa e Cozinha;55.90;3;4.7
+P00476;Livro infantil ilustrado Solaris X 5;Livros;74.90;4;3.2
+P00477;Hub USB-C Boreal S 3;Informática;2790.90;10;4.0
+P00478;Jogo de chaves Nimbus Ultra 5;Ferramentas;86.90;18;4.6
+P00479;Bola de futebol Aurora Pro 3;Esporte;819.90;17;5.0
+P00480;Quebra-cabeça 1000 peças Aurora Pro 9;Brinquedos;58.90;57;3.1
+P00481;Esmalte Zênite Max 6;Beleza;44.90;0;3.7
+P00482;Pista de corrida Solaris Pro 5;Brinquedos;373.90;22;4.5
+P00483;Romance policial Boreal Mini 8;Livros;117.90;10;3.9
+P00484;Sérum facial Vértice X 9;Beleza;426.90;6;3.9
+P00485;Micro-ondas Vértice Lite 7;Casa e Cozinha;94.90;5;4.1
+P00486;Parafusadeira Zênite Mini 3;Ferramentas;77.90;21;4.0
+P00487;HQ de aventura Orion Mini 6;Livros;45.90;29;4.6
+P00488;Trena 5 m Solaris Ultra 5;Ferramentas;62.90;8;5.0
+P00489;Smartphone 128 GB Nimbus Max 3;Celulares;4889.90;6;3.7
+P00490;Boneca articulada Kappa Pro 9;Brinquedos;108.90;11;4.1
+P00491;Secador de cabelo Boreal Mini 3;Beleza;151.90;58;4.9
+P00492;Trena 5 m Solaris Max 7;Ferramentas;98.90;24;3.7
+P00493;Monitor 24 pol. Nimbus Pro 1;Informática;36.90;1;3.7
+P00494;Jogo de cama Kappa Ultra 9;Casa e Cozinha;167.90;11;3.7
+P00495;Bola de futebol Aurora Max 8;Esporte;187.90;3;4.5
+P00496;Mochila de trilha Vértice Lite 1;Esporte;484.90;10;3.9
+P00497;Jogo de cama Boreal Mini 7;Casa e Cozinha;293.90;1;3.5
+P00498;SSD 1 TB Aurora S 2;Informática;4944.90;4;5.0
+P00499;Carrinho de controle remoto Kappa Lite 7;Brinquedos;286.90;4;4.1
+P00500;Esmalte Kappa X 4;Beleza;135.90;0;3.8
+P00501;Cafeteira Kappa Plus 8;Casa e Cozinha;47.90;31;4.4
+P00502;Halteres 5 kg Zênite Max 3;Esporte;209.90;3;5.0
+P00503;Notebook Aurora X 8;Informática;240.90;32;4.5
+P00504;Nível a laser Orion Ultra 9;Ferramentas;673.90;5;4.0
+P00505;Luvas de academia Orion Pro 5;Esporte;711.90;1;4.2
+P00506;Livro de fantasia Aurora Ultra 9;Livros;151.90;2;3.8
+P00507;Halteres 5 kg Vértice X 5;Esporte;158.90;32;3.4
+P00508;Pelúcia Kappa Lite 6;Brinquedos;55.90;1;4.5
+P00509;Perfume 100 ml Aurora Pro 5;Beleza;14.90;8;5.0
+P00510;Perfume 100 ml Atlas Mini 2;Beleza;19.90;7;4.1
+P00511;Protetor solar FPS 50 Orion Lite 6;Beleza;530.90;0;3.9
+P00512;Caixa de ferramentas Orion Lite 2;Ferramentas;47.90;7;3.9
+P00513;Bicicleta aro 29 Orion Pro 7;Esporte;388.90;2;2.9
+P00514;Furadeira de impacto Boreal Max 7;Ferramentas;57.90;9;5.0
+P00515;Luvas de academia Orion Ultra 3;Esporte;412.90;7;4.6
+P00516;Furadeira de impacto Nimbus S 6;Ferramentas;57.90;14;4.0
+P00517;Prancha alisadora Vértice X 6;Beleza;103.90;3;4.0
+P00518;Carregador turbo Nimbus Ultra 8;Celulares;2391.90;12;5.0
+P00519;Jogo de cama Vértice Ultra 5;Casa e Cozinha;246.90;1;3.7
+P00520;Guia de Python Nimbus S 6;Livros;25.90;11;4.3
+P00521;Biografia Aurora Mini 8;Livros;116.90;1;4.3
+P00522;Biografia Orion Max 5;Livros;32.90;0;4.8
+P00523;Pelúcia Zênite Lite 3;Brinquedos;349.90;0;4.8
+P00524;Escada de alumínio Atlas S 6;Ferramentas;91.90;40;4.1
+P00525;Jogo de tabuleiro Atlas Pro 3;Brinquedos;264.90;3;4.1
+P00526;Lixadeira orbital Atlas Lite 2;Ferramentas;873.90;24;3.9
+P00527;Monitor 24 pol. Zênite Max 4;Informática;5985.90;2;3.7
+P00528;Serra tico-tico Orion S 6;Ferramentas;598.90;15;4.4
+P00529;Teclado mecânico Boreal X 4;Informática;648.90;3;4.1
+P00530;Jogo de facas Vértice Plus 3;Casa e Cozinha;241.90;7;3.5
+P00531;Jogo de cama Solaris Plus 2;Casa e Cozinha;91.90;3;3.6
+P00532;Fone bluetooth Lince Plus 1;Celulares;20.90;3;4.3
+P00533;Tapete de yoga Solaris Mini 6;Esporte;102.90;22;3.8
+P00534;Notebook Aurora Pro 4;Informática;61.90;17;3.3
+P00535;Hub USB-C Atlas Mini 1;Informática;364.90;0;2.8
+P00536;Luvas de academia Nimbus X 8;Esporte;39.90;7;3.7
+P00537;HQ de aventura Vértice Pro 2;Livros;75.90;56;4.6
+P00538;Prancha alisadora Atlas S 6;Beleza;80.90;5;4.4
+P00539;Jogo de tabuleiro Atlas Lite 7;Brinquedos;133.90;5;3.9
+P00540;Protetor solar FPS 50 Boreal Lite 1;Beleza;29.90;8;4.7
+P00541;Caixa de ferramentas Nimbus X 7;Ferramentas;263.90;69;4.4
+P00542;Blocos de montar Atlas X 8;Brinquedos;45.90;3;4.1
+P00543;Halteres 5 kg Solaris S 7;Esporte;191.90;2;3.4
+P00544;Power bank Nimbus Pro 1;Celulares;91.90;1;4.3
+P00545;Ventilador de mesa Atlas S 1;Casa e Cozinha;91.90;30;3.1
+P00546;Halteres 5 kg Lince Max 8;Esporte;1101.90;77;3.4
+P00547;Manual de finanças Boreal X 4;Livros;20.90;74;3.9
+P00548;Garrafa térmica Lince Mini 2;Esporte;1317.90;1;4.2
+P00549;Quebra-cabeça 1000 peças Atlas Lite 5;Brinquedos;50.90;3;3.5
+P00550;Tênis de corrida Boreal Lite 2;Esporte;420.90;0;4.2
+P00551;Bicicleta aro 29 Aurora Lite 7;Esporte;727.90;1;4.9
+P00552;Hub USB-C Boreal S 5;Informática;61.90;0;4.3
+P00553;Carrinho de controle remoto Lince Max 6;Brinquedos;437.90;14;4.3
+P00554;Webcam Full HD Zênite Mini 1;Informática;368.90;5;5.0
+P00555;Tênis de corrida Lince Plus 8;Esporte;151.90;4;3.5
+P00556;Massinha de modelar Aurora S 2;Brinquedos;139.90;3;4.9
+P00557;Air fryer Orion Ultra 8;Casa e Cozinha;992.90;30;4.1
+P00558;Jogo de cama Orion Plus 3;Casa e Cozinha;1102.90;3;4.0
+P00559;Shampoo 400 ml Orion Max 4;Beleza;128.90;5;4.9
+P00560;Carrinho de controle remoto Nimbus Lite 8;Brinquedos;116.90;14;4.1
+P00561;Luvas de academia Boreal Mini 3;Esporte;26.90;1;4.0
+P00562;Barbeador elétrico Vértice Plus 2;Beleza;194.90;1;4.6
+P00563;Trena 5 m Lince Lite 8;Ferramentas;326.90;24;3.9
+P00564;Bola de futebol Nimbus Lite 9;Esporte;24.90;26;4.6
+P00565;HQ de aventura Solaris Pro 4;Livros;22.90;16;4.2
+P00566;Hidratante corporal Aurora Plus 9;Beleza;97.90;104;4.1
+P00567;Furadeira de impacto Nimbus Mini 1;Ferramentas;16.90;8;5.0
+P00568;Tapete de yoga Boreal Ultra 7;Esporte;182.90;1;3.8
+P00569;Webcam Full HD Aurora Plus 7;Informática;129.90;39;3.8
+P00570;Escada de alumínio Aurora Lite 6;Ferramentas;224.90;103;3.5
+P00571;Fone bluetooth Atlas Lite 9;Celulares;127.90;7;4.4
+P00572;Jogo de cama Solaris Ultra 5;Casa e Cozinha;51.90;6;3.8
+P00573;Manual de finanças Vértice Lite 3;Livros;34.90;8;4.7
+P00574;Air fryer Lince S 5;Casa e Cozinha;469.90;4;5.0
+P00575;Smartwatch Aurora Max 5;Celulares;1114.90;3;4.1
+P00576;Jogo de facas Solaris Pro 6;Casa e Cozinha;700.90;6;4.2
+P00577;Nível a laser Boreal Plus 5;Ferramentas;122.90;29;4.3
+P00578;Secador de cabelo Orion S 8;Beleza;500.90;3;5.0
+P00579;Massinha de modelar Solaris X 1;Brinquedos;313.90;1;3.9
+P00580;Panela de pressão Boreal X 9;Casa e Cozinha;270.90;18;3.2
+P00581;Jogo de cama Boreal X 7;Casa e Cozinha;47.90;1;4.4
+P00582;SSD 1 TB Aurora Pro 7;Informática;1108.90;65;4.4
+P00583;Hidratante corporal Zênite X 5;Beleza;487.90;0;4.0
+P00584;Jogo de tabuleiro Zênite Max 1;Brinquedos;58.90;0;3.7
+P00585;Guia de Python Boreal Max 3;Livros;53.90;10;4.0
+P00586;Drone infantil Zênite Ultra 4;Brinquedos;120.90;12;3.6
+P00587;Liquidificador Solaris X 3;Casa e Cozinha;64.90;0;5.0
+P00588;Kit de ciência Kappa Mini 5;Brinquedos;178.90;223;3.6
+P00589;Suporte veicular Vértice X 9;Celulares;548.90;1;4.5
+P00590;Garrafa térmica Kappa Ultra 5;Esporte;23.90;0;3.7
+P00591;Teclado mecânico Vértice Pro 1;Informática;545.90;16;4.3
+P00592;SSD 1 TB Nimbus Max 7;Informática;57.90;44;4.0
+P00593;Carregador turbo Kappa Ultra 2;Celulares;109.90;1;3.8
+P00594;Barbeador elétrico Kappa Mini 6;Beleza;102.90;36;3.7
+P00595;Roteador Wi-Fi 6 Kappa S 3;Informática;716.90;4;5.0
+P00596;Kit de maquiagem Boreal S 2;Beleza;61.90;16;4.8
+P00597;Smartphone 256 GB Atlas Pro 2;Celulares;77.90;7;4.4
+P00598;Headset gamer Zênite Pro 2;Informática;2159.90;9;3.7
+P00599;Bicicleta aro 29 Zênite Plus 4;Esporte;964.90;8;5.0
+P00600;Liquidificador Orion Max 5;Casa e Cozinha;333.90;2;4.0
+P00601;Hub USB-C Orion S 3;Informática;724.90;3;2.5
+P00602;Monitor 24 pol. Vértice Plus 8;Informática;919.90;14;4.3
+P00603;Película de vidro Orion X 6;Celulares;138.90;7;4.4
+P00604;Monitor 24 pol. Orion X 5;Informática;2079.90;5;3.8
+P00605;Bicicleta aro 29 Nimbus Mini 6;Esporte;215.90;1;4.2
+P00606;Pelúcia Solaris Plus 4;Brinquedos;28.90;37;4.8
+P00607;Smartphone 256 GB Nimbus Plus 2;Celulares;2454.90;9;5.0
+P00608;Jogo de cama Zênite S 9;Casa e Cozinha;1557.90;11;5.0
+P00609;Cafeteira Boreal S 5;Casa e Cozinha;737.90;1;4.0
+P00610;Carregador turbo Aurora X 1;Celulares;24.90;102;5.0
+P00611;Fone bluetooth Zênite Max 6;Celulares;74.90;21;4.2
+P00612;Massinha de modelar Nimbus X 7;Brinquedos;420.90;10;4.2
+P00613;Jogo de tabuleiro Aurora X 6;Brinquedos;61.90;11;4.3
+P00614;Biografia Orion Max 6;Livros;142.90;9;3.3
+P00615;Pen drive 64 GB Orion X 8;Informática;116.90;18;4.3
+P00616;Kit de ciência Atlas Plus 1;Brinquedos;61.90;1;4.6
+P00617;Pen drive 64 GB Nimbus Ultra 2;Informática;350.90;51;4.8
+P00618;Jogo de chaves Kappa X 8;Ferramentas;125.90;3;4.0
+P00619;Roteador Wi-Fi 6 Atlas Max 1;Informática;1294.90;14;4.6
+P00620;Cabo USB-C Lince Lite 6;Celulares;33.90;0;4.5
+P00621;Halteres 5 kg Solaris Ultra 2;Esporte;2406.90;26;4.0
+P00622;Prancha alisadora Kappa Lite 8;Beleza;283.90;2;5.0
+P00623;Bermuda de ciclismo Solaris Mini 9;Esporte;340.90;7;4.2
+P00624;Quebra-cabeça 1000 peças Nimbus Pro 3;Brinquedos;260.90;0;3.6
+P00625;Escada de alumínio Zênite Lite 6;Ferramentas;111.90;3;4.7
+P00626;Notebook Kappa Ultra 2;Informática;2511.90;0;3.9
+P00627;Bicicleta aro 29 Aurora Plus 2;Esporte;1099.90;9;4.2
+P00628;Trena 5 m Nimbus Plus 4;Ferramentas;427.90;2;3.8
+P00629;Tapete de yoga Atlas X 5;Esporte;2023.90;3;4.4
+P00630;Smartphone 256 GB Atlas Lite 1;Celulares;80.90;9;4.4
+P00631;Serra tico-tico Orion X 1;Ferramentas;83.90;0;3.5
+P00632;Micro-ondas Atlas Pro 3;Casa e Cozinha;69.90;3;4.0
+P00633;Livro de fantasia Vértice Max 4;Livros;155.90;3;3.4
+P00634;Livro infantil ilustrado Orion Plus 5;Livros;32.90;3;4.6
+P00635;Cafeteira Aurora S 4;Casa e Cozinha;192.90;5;4.3
+P00636;Ventilador de mesa Nimbus S 2;Casa e Cozinha;271.90;144;4.2
+P00637;Ventilador de mesa Orion X 9;Casa e Cozinha;1682.90;0;3.8
+P00638;Jogo de toalhas Zênite Lite 9;Casa e Cozinha;103.90;1;4.3
+P00639;Carrinho de controle remoto Lince X 4;Brinquedos;108.90;3;4.2
+P00640;Jogo de chaves Aurora X 3;Ferramentas;202.90;8;4.5
+P00641;Jogo de toalhas Nimbus X 2;Casa e Cozinha;947.90;0;5.0
+P00642;Escada de alumínio Boreal Lite 5;Ferramentas;36.90;8;3.9
+P00643;Serra tico-tico Solaris Pro 9;Ferramentas;743.90;6;3.9
+P00644;Tênis de corrida Solaris S 3;Esporte;900.90;2;5.0
+P00645;Headset gamer Solaris S 7;Informática;3463.90;24;4.2
+P00646;Teclado mecânico Boreal S 8;Informática;1928.90;7;3.9
+P00647;Teclado mecânico Lince Ultra 3;Informática;47.90;17;4.4
+P00648;Cafeteira Lince Ultra 7;Casa e Cozinha;161.90;0;3.9
+P00649;Pista de corrida Aurora X 5;Brinquedos;508.90;2;4.2
+P00650;Jogo de toalhas Kappa Mini 5;Casa e Cozinha;348.90;20;3.7
+P00651;Mouse sem fio Boreal S 3;Informática;2769.90;0;4.5
+P00652;Halteres 5 kg Nimbus S 4;Esporte;25.90;11;4.0
+P00653;Monitor 24 pol. Orion Ultra 6;Informática;663.90;9;3.5
+P00654;Carrinho de controle remoto Boreal Ultra 8;Brinquedos;33.90;97;3.5
+P00655;Bola de futebol Vértice Lite 6;Esporte;54.90;7;3.4
+P00656;Teclado mecânico Zênite Max 1;Informática;150.90;5;3.7
+P00657;HQ de aventura Lince Lite 2;Livros;128.90;1;4.0
+P00658;Boneca articulada Zênite X 8;Brinquedos;120.90;1;4.0
+P00659;Smartwatch Vértice Ultra 9;Celulares;1681.90;4;4.1
+P00660;SSD 1 TB Boreal S 6;Informática;58.90;0;3.1
+P00661;Fone bluetooth Aurora Lite 7;Celulares;31.90;6;4.5
+P00662;Manual de finanças Orion Plus 5;Livros;71.90;36;3.9
+P00663;Bola de futebol Nimbus S 3;Esporte;236.90;3;4.2
+P00664;Micro-ondas Zênite S 1;Casa e Cozinha;70.90;14;3.8
+P00665;HQ de aventura Nimbus Pro 6;Livros;22.90;27;3.5
+P00666;Trena 5 m Lince Plus 4;Ferramentas;599.90;7;4.2
+P00667;Luvas de academia Zênite Plus 8;Esporte;55.90;187;4.4
+P00668;Notebook Atlas Lite 2;Informática;129.90;8;4.5
+P00669;Romance policial Aurora Max 3;Livros;37.90;3;4.0
+P00670;Massinha de modelar Boreal Ultra 5;Brinquedos;25.90;3;4.7
+P00671;Perfume 100 ml Aurora Ultra 4;Beleza;32.90;28;4.2
+P00672;Carregador turbo Boreal Ultra 5;Celulares;1208.90;25;4.3
+P00673;Monitor 24 pol. Aurora Mini 4;Informática;475.90;0;5.0
+P00674;Jogo de facas Solaris Pro 7;Casa e Cozinha;951.90;0;2.9
+P00675;Barbeador elétrico Vértice Pro 3;Beleza;135.90;0;3.9
+P00676;Capa protetora Aurora S 9;Celulares;55.90;6;3.7
+P00677;Perfume 100 ml Kappa S 4;Beleza;292.90;17;3.5
+P00678;Smartphone 128 GB Nimbus Plus 7;Celulares;226.90;0;5.0
+P00679;Sérum facial Boreal X 8;Beleza;57.90;2;5.0
+P00680;Ventilador de mesa Zênite X 6;Casa e Cozinha;103.90;0;3.9
+P00681;Dicionário escolar Vértice Plus 1;Livros;37.90;4;4.1
+P00682;Jogo de tabuleiro Vértice Pro 1;Brinquedos;652.90;1;4.3
+P00683;Kit de maquiagem Orion Mini 5;Beleza;21.90;3;4.1
+P00684;Liquidificador Orion Plus 2;Casa e Cozinha;255.90;11;3.4
+P00685;Biografia Vértice S 8;Livros;187.90;25;3.7
+P00686;HQ de aventura Lince X 1;Livros;164.90;20;3.9
+P00687;Cafeteira Nimbus Lite 8;Casa e Cozinha;212.90;0;4.9
+P00688;Romance policial Orion Mini 7;Livros;182.90;14;3.9
+P00689;Serra tico-tico Lince Ultra 7;Ferramentas;1268.90;3;3.9
+P00690;Manual de finanças Solaris Lite 6;Livros;64.90;28;3.8
+P00691;Bermuda de ciclismo Lince S 7;Esporte;139.90;17;4.8
+P00692;Suporte veicular Aurora Ultra 1;Celulares;86.90;5;3.3
+P00693;Micro-ondas Solaris X 1;Casa e Cozinha;293.90;10;4.4
+P00694;Monitor 24 pol. Lince Pro 8;Informática;1179.90;32;2.7
+P00695;Serra tico-tico Orion Lite 5;Ferramentas;1266.90;9;4.8
+P00696;Pelúcia Aurora S 5;Brinquedos;85.90;8;4.0
+P00697;Notebook Boreal X 3;Informática;3627.90;6;4.3
+P00698;Tapete de yoga Vértice X 3;Esporte;48.90;108;3.7
+P00699;Guia de Python Aurora X 2;Livros;75.90;3;4.3
+P00700;Tênis de corrida Kappa X 4;Esporte;596.90;3;4.5
+P00701;Hub USB-C Solaris Lite 5;Informática;2676.90;1;4.1
+P00702;Trena 5 m Orion Ultra 8;Ferramentas;582.90;40;4.2
+P00703;Kit de ciência Lince Pro 5;Brinquedos;248.90;38;4.7
+P00704;Monitor 24 pol. Nimbus Lite 9;Informática;419.90;2;3.3
+P00705;Furadeira de impacto Vértice Ultra 4;Ferramentas;23.90;7;3.7
+P00706;Protetor solar FPS 50 Atlas X 7;Beleza;24.90;3;4.7
+P00707;Fone bluetooth Vértice Plus 4;Celulares;111.90;0;3.9
+P00708;Micro-ondas Zênite Lite 7;Casa e Cozinha;111.90;12;4.1
+P00709;Biografia Lince Pro 9;Livros;114.90;2;4.8
+P00710;Bicicleta aro 29 Aurora Plus 8;Esporte;163.90;3;3.5
+P00711;Tapete de yoga Vértice X 8;Esporte;41.90;3;4.1
+P00712;Massinha de modelar Zênite X 6;Brinquedos;162.90;2;5.0
+P00713;Tapete de yoga Vértice Plus 8;Esporte;1061.90;2;4.1
+P00714;Boneca articulada Atlas Mini 1;Brinquedos;117.90;6;4.7
+P00715;Mouse sem fio Lince Pro 1;Informática;208.90;1;4.3
+P00716;Shampoo 400 ml Solaris Mini 4;Beleza;110.90;18;3.7
+P00717;Corda de pular Orion Lite 4;Esporte;117.90;14;4.4
+P00718;Carregador turbo Orion S 4;Celulares;1713.90;55;3.4
+P00719;Atlas geográfico Lince Mini 1;Livros;187.90;32;3.8
+P00720;Dicionário escolar Vértice X 6;Livros;160.90;0;3.8
+P00721;Serra tico-tico Atlas S 3;Ferramentas;188.90;54;3.1
+P00722;Pelúcia Boreal S 5;Brinquedos;92.90;12;5.0
+P00723;HQ de aventura Vértice Ultra 5;Livros;23.90;83;3.6
+P00724;Guia de Python Atlas Pro 9;Livros;168.90;2;3.5
+P00725;Atlas geográfico Vértice Ultra 2;Livros;161.90;11;2.9
+P00726;Esmalte Nimbus Ultra 9;Beleza;76.90;55;4.5
+P00727;Quebra-cabeça 1000 peças Solaris Max 6;Brinquedos;637.90;3;3.6
+P00728;Perfume 100 ml Atlas Pro 3;Beleza;576.90;1;4.3
+P00729;Dicionário escolar Solaris Max 3;Livros;29.90;1;4.0
+P00730;Webcam Full HD Vértice Ultra 4;Informática;1434.90;308;4.0
+P00731;Garrafa térmica Lince Max 9;Esporte;191.90;4;4.5
+P00732;Jogo de facas Solaris Max 3;Casa e Cozinha;65.90;2;4.6
+P00733;Atlas geográfico Nimbus Max 2;Livros;44.90;0;4.8
+P00734;SSD 1 TB Zênite Max 4;Informática;94.90;549;3.0
+P00735;Webcam Full HD Lince S 1;Informática;152.90;2;3.7
+P00736;Kit de maquiagem Aurora S 3;Beleza;333.90;0;3.8
+P00737;Jogo de facas Boreal Ultra 2;Casa e Cozinha;1216.90;0;3.6
+P00738;Barbeador elétrico Boreal Mini 1;Beleza;452.90;6;3.9
+P00739;Perfume 100 ml Atlas Max 8;Beleza;373.90;4;4.5
+P00740;Blocos de montar Lince Plus 1;Brinquedos;580.90;6;3.5
+P00741;Quebra-cabeça 1000 peças Kappa Mini 4;Brinquedos;45.90;13;3.5
+P00742;Pista de corrida Boreal Mini 6;Brinquedos;374.90;2;4.0
+P00743;Mochila de trilha Solaris X 8;Esporte;685.90;25;4.0
+P00744;Quebra-cabeça 1000 peças Vértice Ultra 7;Brinquedos;33.90;1;4.8
+P00745;SSD 1 TB Lince Pro 8;Informática;57.90;36;3.9
+P00746;Hidratante corporal Solaris X 3;Beleza;442.90;48;3.0
+P00747;Mochila de trilha Zênite X 2;Esporte;51.90;3;4.2
+P00748;Monitor 24 pol. Lince Mini 2;Informática;184.90;0;3.7
+P00749;Shampoo 400 ml Atlas Ultra 7;Beleza;126.90;3;4.9
+P00750;Pen drive 64 GB Kappa Plus 2;Informática;102.90;3;4.3
+P00751;Kit de maquiagem Nimbus S 8;Beleza;95.90;1;4.3
+P00752;Bola de futebol Vértice Plus 2;Esporte;310.90;8;4.0
+P00753;Webcam Full HD Aurora Ultra 2;Informática;49.90;1;4.1
+P00754;Notebook Kappa Max 7;Informática;95.90;4;4.9
+P00755;Esmalte Nimbus Plus 5;Beleza;142.90;4;4.5
+P00756;Parafusadeira Solaris Lite 2;Ferramentas;54.90;1;4.1
+P00757;Shampoo 400 ml Nimbus Pro 6;Beleza;26.90;4;3.8
+P00758;Power bank Vértice Ultra 4;Celulares;2960.90;3;4.1
+P00759;Biografia Kappa S 2;Livros;25.90;21;4.0
+P00760;Air fryer Vértice S 9;Casa e Cozinha;617.90;14;5.0
+P00761;Liquidificador Atlas Pro 9;Casa e Cozinha;290.90;13;4.2
+P00762;Air fryer Kappa S 3;Casa e Cozinha;84.90;8;4.5
+P00763;Suporte veicular Aurora X 6;Celulares;29.90;1;4.8
+P00764;Mochila de trilha Zênite Max 7;Esporte;32.90;5;4.6
+P00765;Smartphone 256 GB Aurora Plus 3;Celulares;398.90;22;3.8
+P00766;Notebook Kappa X 2;Informática;102.90;48;3.1
+P00767;Barbeador elétrico Lince Max 7;Beleza;66.90;1;5.0
+P00768;Romance policial Zênite Mini 5;Livros;46.90;0;3.2
+P00769;SSD 1 TB Orion Max 2;Informática;58.90;3;3.2
+P00770;Cabo USB-C Boreal Plus 1;Celulares;1389.90;9;4.5
+P00771;Smartphone 128 GB Vértice Lite 7;Celulares;1439.90;0;4.9
+P00772;Corda de pular Orion S 7;Esporte;20.90;0;3.9
+P00773;Quebra-cabeça 1000 peças Vértice Max 3;Brinquedos;410.90;2;4.0
+P00774;Carregador turbo Orion Ultra 2;Celulares;30.90;0;4.1
+P00775;Drone infantil Boreal S 3;Brinquedos;119.90;1;5.0
+P00776;Secador de cabelo Nimbus X 1;Beleza;338.90;11;5.0
+P00777;Trena 5 m Nimbus Ultra 6;Ferramentas;25.90;0;4.3
+P00778;Liquidificador Solaris Pro 7;Casa e Cozinha;148.90;61;4.9
+P00779;Dicionário escolar Boreal Mini 6;Livros;88.90;1;4.7
+P00780;Drone infantil Nimbus Lite 7;Brinquedos;608.90;0;4.2
+P00781;Guia de Python Boreal S 9;Livros;23.90;0;3.7
+P00782;Pen drive 64 GB Zênite X 2;Informática;381.90;2;4.7
+P00783;Alicate universal Solaris S 8;Ferramentas;69.90;27;3.9
+P00784;Furadeira de impacto Nimbus Mini 1;Ferramentas;32.90;3;5.0
+P00785;Halteres 5 kg Zênite Mini 4;Esporte;23.90;0;4.9
+P00786;Carregador turbo Nimbus Plus 2;Celulares;334.90;24;2.9
+P00787;Pista de corrida Zênite Ultra 7;Brinquedos;31.90;0;3.9
+P00788;Headset gamer Lince S 8;Informática;868.90;6;3.7
+P00789;Pista de corrida Kappa X 5;Brinquedos;292.90;2;3.9
+P00790;Película de vidro Kappa Ultra 8;Celulares;515.90;12;4.0
+P00791;Webcam Full HD Kappa Pro 9;Informática;35.90;22;5.0
+P00792;Perfume 100 ml Aurora Ultra 2;Beleza;17.90;1;3.5
+P00793;Jogo de toalhas Lince Lite 5;Casa e Cozinha;75.90;1;3.9
+P00794;Tênis de corrida Atlas Mini 6;Esporte;62.90;7;3.8
+P00795;Capa protetora Lince X 6;Celulares;3505.90;2;4.9
+P00796;Cafeteira Aurora S 2;Casa e Cozinha;183.90;1;4.5
+P00797;Bola de futebol Nimbus Mini 6;Esporte;115.90;41;3.1
+P00798;Pelúcia Atlas Max 3;Brinquedos;31.90;1;3.4
+P00799;Hidratante corporal Solaris Max 5;Beleza;14.90;2;4.8
+P00800;Corda de pular Lince Lite 3;Esporte;53.90;0;4.3
+P00801;Parafusadeira Vértice S 3;Ferramentas;908.90;6;4.0
+P00802;Bicicleta aro 29 Nimbus Ultra 4;Esporte;110.90;20;4.9
+P00803;Tênis de corrida Lince Plus 3;Esporte;1625.90;8;3.3
+P00804;Alicate universal Zênite Pro 2;Ferramentas;95.90;3;3.6
+P00805;Cafeteira Orion Ultra 6;Casa e Cozinha;1068.90;14;4.1
+P00806;Furadeira de impacto Orion Ultra 3;Ferramentas;1140.90;1;4.0
+P00807;Tênis de corrida Atlas Plus 8;Esporte;951.90;25;5.0
+P00808;Monitor 24 pol. Zênite Lite 1;Informática;285.90;0;4.5
+P00809;Fone bluetooth Nimbus Pro 4;Celulares;27.90;4;3.5
+P00810;Romance policial Nimbus Max 3;Livros;171.90;30;4.1
+P00811;Shampoo 400 ml Boreal X 1;Beleza;98.90;3;5.0
+P00812;Garrafa térmica Orion S 9;Esporte;44.90;0;3.7
+P00813;Tênis de corrida Boreal Mini 6;Esporte;28.90;3;5.0
+P00814;Corda de pular Vértice Mini 9;Esporte;269.90;2;3.8
+P00815;Pen drive 64 GB Orion Mini 2;Informática;914.90;3;3.1
+P00816;Alicate universal Nimbus Pro 5;Ferramentas;484.90;4;5.0
+P00817;Carrinho de controle remoto Kappa S 8;Brinquedos;103.90;2;4.2
+P00818;Trena 5 m Lince Ultra 3;Ferramentas;70.90;6;5.0
+P00819;Película de vidro Zênite Lite 6;Celulares;884.90;23;4.2
+P00820;Air fryer Boreal Ultra 1;Casa e Cozinha;74.90;31;3.5
+P00821;Parafusadeira Solaris Pro 7;Ferramentas;29.90;5;4.6
+P00822;Sérum facial Kappa Ultra 6;Beleza;702.90;5;3.5
+P00823;Tênis de corrida Kappa S 4;Esporte;918.90;4;4.6
+P00824;Prancha alisadora Aurora Max 9;Beleza;27.90;6;4.2
+P00825;Jogo de tabuleiro Orion Ultra 8;Brinquedos;625.90;50;4.1
+P00826;Mochila de trilha Nimbus X 8;Esporte;207.90;7;3.9
+P00827;Kit de maquiagem Boreal Mini 1;Beleza;555.90;1;3.9
+P00828;Jogo de facas Zênite Max 7;Casa e Cozinha;124.90;4;4.0
+P00829;Notebook Solaris X 2;Informática;2324.90;1;4.7
+P00830;HQ de aventura Orion Ultra 2;Livros;78.90;4;3.3
+P00831;Kit de ciência Zênite Ultra 2;Brinquedos;364.90;9;4.1
+P00832;Mochila de trilha Nimbus Lite 5;Esporte;60.90;1;4.6
+P00833;Garrafa térmica Vértice Mini 2;Esporte;187.90;19;4.0
+P00834;Jogo de cama Kappa S 6;Casa e Cozinha;46.90;103;3.3
+P00835;Blocos de montar Aurora Pro 5;Brinquedos;667.90;7;4.5
+P00836;Corda de pular Boreal S 3;Esporte;102.90;7;3.6
+P00837;Carrinho de controle remoto Atlas Lite 4;Brinquedos;26.90;7;4.6
+P00838;Quebra-cabeça 1000 peças Kappa Mini 6;Brinquedos;255.90;8;4.3
+P00839;Aspirador de pó Zênite Max 1;Casa e Cozinha;742.90;2;4.2
+P00840;Roteador Wi-Fi 6 Solaris S 5;Informática;884.90;0;4.0
+P00841;Aspirador de pó Zênite Mini 5;Casa e Cozinha;424.90;4;4.1
+P00842;Pen drive 64 GB Kappa Max 2;Informática;32.90;9;3.7
+P00843;Jogo de toalhas Aurora Max 3;Casa e Cozinha;124.90;12;4.0
+P00844;Tênis de corrida Zênite Ultra 7;Esporte;2410.90;3;3.7
+P00845;Caixa de ferramentas Aurora Plus 5;Ferramentas;21.90;1;4.2
+P00846;Carrinho de controle remoto Vértice Mini 5;Brinquedos;137.90;11;4.6
+P00847;Bola de futebol Atlas Ultra 3;Esporte;22.90;72;4.3
+P00848;Carregador turbo Orion Max 5;Celulares;16.90;3249;4.2
+P00849;Smartphone 128 GB Atlas S 9;Celulares;719.90;1;4.0
+P00850;Perfume 100 ml Lince Mini 4;Beleza;127.90;3;3.6
+P00851;Cabo USB-C Boreal Mini 5;Celulares;224.90;9;5.0
+P00852;Livro infantil ilustrado Zênite Lite 8;Livros;33.90;2;4.4
+P00853;Furadeira de impacto Vértice Pro 5;Ferramentas;33.90;34;3.5
+P00854;Webcam Full HD Orion X 8;Informática;1079.90;2;4.3
+P00855;Hidratante corporal Orion Pro 5;Beleza;58.90;21;3.4
+P00856;Notebook Orion Mini 7;Informática;1843.90;1;4.5
+P00857;Webcam Full HD Kappa Ultra 3;Informática;107.90;75;4.4
+P00858;Cafeteira Kappa Mini 7;Casa e Cozinha;658.90;0;4.3
+P00859;Garrafa térmica Nimbus Ultra 7;Esporte;696.90;1;4.8
+P00860;Prancha alisadora Boreal Lite 8;Beleza;417.90;3;4.6
+P00861;Bermuda de ciclismo Orion Max 7;Esporte;65.90;4;3.8
+P00862;Panela de pressão Kappa Mini 4;Casa e Cozinha;275.90;10;3.7
+P00863;Lixadeira orbital Kappa Max 9;Ferramentas;629.90;8;4.0
+P00864;Nível a laser Solaris S 8;Ferramentas;22.90;6;3.9
+P00865;Perfume 100 ml Zênite Plus 3;Beleza;55.90;7;3.7
+P00866;Hub USB-C Boreal Lite 2;Informática;1185.90;6;4.3
+P00867;Notebook Boreal S 9;Informática;3784.90;6;4.6
+P00868;SSD 1 TB Boreal Plus 1;Informática;363.90;13;4.4
+P00869;Roteador Wi-Fi 6 Lince Ultra 1;Informática;1906.90;14;3.8
+P00870;Esmalte Nimbus Lite 2;Beleza;139.90;0;4.5
+P00871;Monitor 24 pol. Zênite Lite 2;Informática;358.90;0;3.3
+P00872;Guia de Python Kappa Lite 6;Livros;157.90;17;5.0
+P00873;Nível a laser Nimbus Ultra 8;Ferramentas;102.90;10;2.8
+P00874;Shampoo 400 ml Atlas X 4;Beleza;36.90;2;4.2
+P00875;Notebook Solaris X 3;Informática;1001.90;17;4.0
+P00876;Luvas de academia Vértice Mini 1;Esporte;379.90;17;4.2
+P00877;Cabo USB-C Aurora Max 9;Celulares;237.90;17;4.4
+P00878;Teclado mecânico Zênite Max 4;Informática;237.90;3;4.2
+P00879;Romance policial Boreal X 2;Livros;119.90;3;3.6
+P00880;Air fryer Boreal Plus 6;Casa e Cozinha;612.90;30;4.1
+P00881;Aspirador de pó Zênite Lite 5;Casa e Cozinha;232.90;0;4.2
+P00882;Drone infantil Zênite S 4;Brinquedos;54.90;7;4.1
+P00883;Jogo de cama Nimbus S 1;Casa e Cozinha;930.90;3;4.6
+P00884;Jogo de chaves Kappa Max 8;Ferramentas;222.90;63;4.1
+P00885;Mouse sem fio Zênite X 5;Informática;49.90;124;3.6
+P00886;Mochila de trilha Atlas S 7;Esporte;411.90;0;4.3
+P00887;Notebook Boreal Ultra 2;Informática;91.90;14;3.7
+P00888;Micro-ondas Vértice X 9;Casa e Cozinha;376.90;5;5.0
+P00889;Caixa de ferramentas Solaris X 6;Ferramentas;67.90;0;4.5
+P00890;Hidratante corporal Lince Mini 3;Beleza;66.90;0;3.5
+P00891;Prancha alisadora Boreal Max 8;Beleza;62.90;12;4.8
+P00892;HQ de aventura Boreal Mini 5;Livros;23.90;7;4.8
+P00893;Protetor solar FPS 50 Orion Pro 7;Beleza;90.90;6;4.5
+P00894;Mochila de trilha Zênite Mini 6;Esporte;144.90;43;4.3
+P00895;Pista de corrida Solaris S 2;Brinquedos;442.90;44;3.6
+P00896;Atlas geográfico Orion Max 7;Livros;26.90;8;5.0
+P00897;Barbeador elétrico Orion Ultra 2;Beleza;728.90;5;3.8
+P00898;Protetor solar FPS 50 Atlas Plus 3;Beleza;320.90;3;3.5
+P00899;Drone infantil Zênite Lite 6;Brinquedos;292.90;38;4.4
+P00900;Trena 5 m Nimbus S 1;Ferramentas;23.90;0;4.2
+P00901;Carrinho de controle remoto Vértice Max 4;Brinquedos;156.90;0;3.4
+P00902;Perfume 100 ml Aurora S 5;Beleza;206.90;4;5.0
+P00903;Nível a laser Zênite Mini 7;Ferramentas;26.90;14;4.8
+P00904;Massinha de modelar Nimbus Ultra 6;Brinquedos;32.90;73;3.4
+P00905;Película de vidro Atlas Mini 6;Celulares;635.90;0;4.4
+P00906;Panela de pressão Zênite Pro 5;Casa e Cozinha;82.90;16;3.2
+P00907;Capa protetora Kappa S 7;Celulares;63.90;1;4.8
+P00908;Biografia Kappa Lite 6;Livros;25.90;6;4.1
+P00909;Monitor 24 pol. Zênite Plus 6;Informática;47.90;3;3.6
+P00910;Halteres 5 kg Solaris Mini 4;Esporte;24.90;6;5.0
+P00911;Esmalte Vértice X 7;Beleza;20.90;1;4.3
+P00912;Jogo de toalhas Aurora Mini 4;Casa e Cozinha;43.90;4;4.0
+P00913;Micro-ondas Solaris Ultra 8;Casa e Cozinha;1671.90;4;4.1
+P00914;Smartwatch Nimbus Max 9;Celulares;2730.90;14;4.3
+P00915;Quebra-cabeça 1000 peças Nimbus Max 2;Brinquedos;328.90;11;4.1
+P00916;Perfume 100 ml Atlas Ultra 6;Beleza;29.90;4;4.8
+P00917;Tênis de corrida Atlas S 5;Esporte;19.90;25;4.3
+P00918;Jogo de toalhas Solaris Mini 3;Casa e Cozinha;1526.90;7;3.7
+P00919;Barbeador elétrico Kappa Max 2;Beleza;76.90;71;3.7
+P00920;Bermuda de ciclismo Aurora Plus 5;Esporte;802.90;0;4.8
+P00921;Alicate universal Boreal S 7;Ferramentas;83.90;40;4.3
+P00922;Carregador turbo Kappa X 7;Celulares;657.90;9;3.6
+P00923;Mochila de trilha Zênite S 2;Esporte;34.90;1;4.4
+P00924;Tênis de corrida Kappa Lite 6;Esporte;213.90;1;4.8
+P00925;Smartphone 128 GB Orion Plus 5;Celulares;199.90;32;4.5
+P00926;Smartwatch Orion Ultra 9;Celulares;1273.90;0;4.4
+P00927;Blocos de montar Atlas S 1;Brinquedos;81.90;4;4.9
+P00928;Mochila de trilha Atlas S 6;Esporte;519.90;5;5.0
+P00929;Carregador turbo Atlas Ultra 8;Celulares;498.90;4;4.6
+P00930;Caixa de ferramentas Atlas Pro 1;Ferramentas;33.90;7;4.3
+P00931;Kit de ciência Orion Pro 3;Brinquedos;60.90;11;3.6
+P00932;Escada de alumínio Kappa Max 9;Ferramentas;39.90;0;4.9
+P00933;Romance policial Kappa Mini 6;Livros;22.90;9;3.8
+P00934;Roteador Wi-Fi 6 Boreal Pro 2;Informática;4094.90;22;4.4
+P00935;Air fryer Nimbus Ultra 7;Casa e Cozinha;700.90;113;4.4
+P00936;Boneca articulada Lince S 3;Brinquedos;59.90;15;5.0
+P00937;Garrafa térmica Atlas Mini 1;Esporte;40.90;14;4.4
+P00938;Guia de Python Boreal X 7;Livros;172.90;2;3.6
+P00939;Panela de pressão Lince Mini 8;Casa e Cozinha;477.90;13;4.0
+P00940;HQ de aventura Nimbus Max 2;Livros;137.90;17;4.3
+P00941;Trena 5 m Zênite S 8;Ferramentas;22.90;1;3.8
+P00942;Boneca articulada Solaris Max 5;Brinquedos;316.90;9;4.7
+P00943;Secador de cabelo Zênite Plus 8;Beleza;14.90;3;3.6
+P00944;Livro infantil ilustrado Solaris Max 4;Livros;53.90;11;5.0
+P00945;Fone bluetooth Lince Plus 9;Celulares;159.90;1;3.9
+P00946;Smartwatch Lince Mini 9;Celulares;69.90;34;4.1
+P00947;Jogo de tabuleiro Solaris Pro 4;Brinquedos;35.90;4;4.6
+P00948;Liquidificador Zênite X 6;Casa e Cozinha;186.90;13;3.9
+P00949;Notebook Atlas Mini 4;Informática;117.90;101;3.5
+P00950;Carregador turbo Lince X 5;Celulares;92.90;18;3.8
+P00951;Notebook Aurora Ultra 5;Informática;4920.90;29;4.1
+P00952;Boneca articulada Boreal X 4;Brinquedos;141.90;10;4.3
+P00953;Trena 5 m Boreal Mini 6;Ferramentas;1020.90;16;4.6
+P00954;Smartphone 128 GB Kappa Mini 6;Celulares;58.90;1;4.1
+P00955;Nível a laser Atlas Max 2;Ferramentas;109.90;0;5.0
+P00956;Trena 5 m Zênite Plus 6;Ferramentas;267.90;3;5.0
+P00957;Bola de futebol Atlas Mini 4;Esporte;114.90;87;4.0
+P00958;Jogo de cama Orion Plus 1;Casa e Cozinha;66.90;23;3.7
+P00959;Corda de pular Vértice X 1;Esporte;327.90;8;3.7
+P00960;Monitor 24 pol. Vértice Ultra 1;Informática;74.90;26;4.4
+P00961;Jogo de toalhas Kappa Pro 4;Casa e Cozinha;156.90;4;4.6
+P00962;Livro de receitas Lince Ultra 9;Livros;102.90;2;3.5
+P00963;Fone bluetooth Orion Mini 8;Celulares;77.90;7;4.2
+P00964;Lixadeira orbital Orion Max 8;Ferramentas;23.90;3;4.7
+P00965;SSD 1 TB Boreal Pro 7;Informática;918.90;0;4.3
+P00966;Lixadeira orbital Aurora Max 4;Ferramentas;30.90;10;4.3
+P00967;Alicate universal Aurora S 7;Ferramentas;62.90;25;4.0
+P00968;Air fryer Zênite Mini 2;Casa e Cozinha;354.90;0;4.3
+P00969;Luvas de academia Atlas Lite 1;Esporte;483.90;3;5.0
+P00970;Jogo de toalhas Atlas Ultra 1;Casa e Cozinha;881.90;0;2.8
+P00971;Garrafa térmica Solaris Ultra 1;Esporte;208.90;0;4.7
+P00972;Fone bluetooth Boreal S 7;Celulares;70.90;4;4.0
+P00973;Jogo de cama Orion Mini 8;Casa e Cozinha;250.90;1;4.2
+P00974;Webcam Full HD Vértice Pro 6;Informática;263.90;12;3.2
+P00975;Boneca articulada Vértice X 3;Brinquedos;86.90;1;3.6
+P00976;Air fryer Kappa Lite 9;Casa e Cozinha;66.90;0;3.7
+P00977;Notebook Kappa Plus 9;Informática;462.90;19;3.8
+P00978;Boneca articulada Orion S 8;Brinquedos;135.90;40;3.7
+P00979;Mochila de trilha Nimbus Pro 3;Esporte;60.90;2;3.1
+P00980;Livro de fantasia Vértice Max 5;Livros;26.90;4;4.5
+P00981;Escada de alumínio Solaris Plus 1;Ferramentas;50.90;23;3.8
+P00982;Protetor solar FPS 50 Aurora Ultra 8;Beleza;246.90;9;4.2
+P00983;Barbeador elétrico Lince Pro 3;Beleza;75.90;414;4.2
+P00984;Cabo USB-C Aurora X 9;Celulares;2000.90;21;4.4
+P00985;Protetor solar FPS 50 Lince Plus 3;Beleza;128.90;1;4.3
+P00986;Shampoo 400 ml Zênite S 4;Beleza;75.90;8;4.4
+P00987;Monitor 24 pol. Kappa Mini 5;Informática;1044.90;12;3.7
+P00988;Romance policial Solaris X 3;Livros;56.90;2;3.5
+P00989;Blocos de montar Kappa Max 3;Brinquedos;524.90;16;4.7
+P00990;Esmalte Boreal X 2;Beleza;35.90;0;4.0
+P00991;Panela de pressão Boreal S 3;Casa e Cozinha;88.90;8;3.9
+P00992;Bola de futebol Vértice Max 8;Esporte;2383.90;3;4.1
+P00993;Luvas de academia Zênite Pro 6;Esporte;432.90;102;3.9
+P00994;Trena 5 m Nimbus Lite 7;Ferramentas;72.90;14;4.2
+P00995;Manual de finanças Boreal Plus 6;Livros;52.90;4;4.4
+P00996;Jogo de cama Atlas Ultra 4;Casa e Cozinha;288.90;50;3.1
+P00997;Tênis de corrida Atlas S 2;Esporte;364.90;33;4.7
+P00998;Livro infantil ilustrado Zênite Max 1;Livros;121.90;14;3.8
+P00999;Secador de cabelo Nimbus Max 3;Beleza;15.90;46;4.2
+P01000;Nível a laser Boreal Max 5;Ferramentas;42.90;0;4.0
+P01001;Barbeador elétrico Atlas X 4;Beleza;16.90;11;3.8
+P01002;Fone bluetooth Aurora Ultra 1;Celulares;42.90;0;3.8
+P01003;Jogo de facas Atlas Max 4;Casa e Cozinha;261.90;4;3.6
+P01004;Jogo de tabuleiro Aurora Lite 8;Brinquedos;123.90;0;3.7
+P01005;Micro-ondas Zênite X 4;Casa e Cozinha;857.90;2;4.0
+P01006;Bola de futebol Solaris Ultra 9;Esporte;72.90;412;5.0
+P01007;Hidratante corporal Kappa X 3;Beleza;85.90;4;4.0
+P01008;Perfume 100 ml Boreal Max 4;Beleza;789.90;0;3.6
+P01009;Lixadeira orbital Solaris X 4;Ferramentas;951.90;17;4.2
+P01010;Liquidificador Nimbus Mini 4;Casa e Cozinha;275.90;15;4.7
+P01011;Prancha alisadora Atlas Plus 6;Beleza;135.90;0;3.8
+P01012;SSD 1 TB Boreal S 6;Informática;145.90;9;4.4
+P01013;Parafusadeira Aurora Ultra 7;Ferramentas;93.90;20;4.1
+P01014;Corda de pular Aurora Lite 7;Esporte;288.90;1;4.3
+P01015;Teclado mecânico Solaris Mini 4;Informática;1939.90;3;4.1
+P01016;Power bank Nimbus S 9;Celulares;592.90;9;4.6
+P01017;Ventilador de mesa Aurora Max 7;Casa e Cozinha;205.90;0;4.4
+P01018;Dicionário escolar Vértice Lite 7;Livros;35.90;0;3.2
+P01019;Bermuda de ciclismo Solaris Ultra 1;Esporte;66.90;10;4.5
+P01020;Roteador Wi-Fi 6 Solaris Ultra 5;Informática;703.90;4;4.9
+P01021;Jogo de facas Zênite X 4;Casa e Cozinha;54.90;127;3.8
+P01022;Blocos de montar Lince Pro 8;Brinquedos;691.90;6;4.4
+P01023;Jogo de facas Solaris Plus 1;Casa e Cozinha;1470.90;2;4.3
+P01024;Jogo de chaves Aurora Max 5;Ferramentas;109.90;166;3.7
+P01025;Panela de pressão Vértice Ultra 1;Casa e Cozinha;41.90;17;3.9
+P01026;Romance policial Orion S 4;Livros;30.90;73;3.9
+P01027;Blocos de montar Aurora Plus 1;Brinquedos;468.90;5;4.4
+P01028;Livro de fantasia Boreal Lite 5;Livros;42.90;2;4.1
+P01029;Micro-ondas Solaris Lite 5;Casa e Cozinha;48.90;4;4.5
+P01030;Atlas geográfico Lince Mini 2;Livros;34.90;48;4.9
+P01031;Power bank Boreal S 5;Celulares;24.90;51;3.5
+P01032;Monitor 24 pol. Zênite S 3;Informática;369.90;0;4.3
+P01033;SSD 1 TB Solaris X 9;Informática;795.90;12;3.4
+P01034;Película de vidro Nimbus Plus 1;Celulares;67.90;14;4.3
+P01035;Halteres 5 kg Vértice Max 2;Esporte;157.90;19;4.2
+P01036;Jogo de cama Atlas Mini 9;Casa e Cozinha;117.90;17;5.0
+P01037;Headset gamer Lince Mini 7;Informática;447.90;19;4.6
+P01038;Halteres 5 kg Vértice Ultra 5;Esporte;148.90;8;4.5
+P01039;Jogo de cama Zênite Lite 6;Casa e Cozinha;629.90;10;3.8
+P01040;Trena 5 m Kappa Pro 4;Ferramentas;541.90;5;4.2
+P01041;Bicicleta aro 29 Vértice Ultra 2;Esporte;39.90;1;5.0
+P01042;Webcam Full HD Lince Pro 8;Informática;1080.90;8;3.5
+P01043;Teclado mecânico Kappa Mini 5;Informática;550.90;11;4.8
+P01044;Livro infantil ilustrado Aurora Ultra 5;Livros;172.90;0;3.8
+P01045;Parafusadeira Boreal Pro 1;Ferramentas;133.90;9;4.2
+P01046;Halteres 5 kg Zênite Lite 3;Esporte;27.90;189;4.5
+P01047;Bermuda de ciclismo Boreal Mini 7;Esporte;32.90;4;3.9
+P01048;Suporte veicular Atlas X 9;Celulares;1325.90;7;3.8
+P01049;Manual de finanças Vértice Max 7;Livros;23.90;2;4.6
+P01050;Dicionário escolar Orion X 2;Livros;187.90;3;5.0
+P01051;Atlas geográfico Zênite Max 8;Livros;31.90;9;3.3
+P01052;Guia de Python Lince Lite 2;Livros;59.90;1;4.8
+P01053;Pelúcia Vértice Mini 4;Brinquedos;434.90;3;3.3
+P01054;Película de vidro Solaris Ultra 5;Celulares;215.90;0;4.1
+P01055;Halteres 5 kg Orion Pro 1;Esporte;1508.90;5;3.3
+P01056;Atlas geográfico Zênite Max 7;Livros;31.90;4;4.4
+P01057;Pen drive 64 GB Zênite Ultra 4;Informática;569.90;0;4.3
+P01058;Perfume 100 ml Nimbus S 9;Beleza;52.90;116;4.9
+P01059;Carrinho de controle remoto Atlas S 3;Brinquedos;352.90;4;5.0
+P01060;Prancha alisadora Boreal Lite 6;Beleza;294.90;3;4.6
+P01061;Sérum facial Kappa Lite 3;Beleza;14.90;1;4.2
+P01062;Boneca articulada Orion Pro 6;Brinquedos;217.90;13;4.0
+P01063;Bermuda de ciclismo Atlas X 1;Esporte;1289.90;7;4.6
+P01064;Smartphone 256 GB Vértice Max 6;Celulares;1937.90;23;4.1
+P01065;Romance policial Boreal Ultra 1;Livros;164.90;13;2.7
+P01066;HQ de aventura Atlas Mini 3;Livros;40.90;545;4.9
+P01067;Monitor 24 pol. Zênite Plus 4;Informática;235.90;6;4.4
+P01068;Perfume 100 ml Nimbus Max 5;Beleza;14.90;67;3.6
+P01069;Furadeira de impacto Lince S 1;Ferramentas;414.90;2;4.4
+P01070;Kit de ciência Nimbus S 3;Brinquedos;771.90;6;4.5
+P01071;Kit de maquiagem Solaris Lite 8;Beleza;192.90;5;4.4
+P01072;Blocos de montar Zênite Plus 5;Brinquedos;698.90;369;3.4
+P01073;Drone infantil Lince Max 9;Brinquedos;95.90;4;4.4
+P01074;Romance policial Kappa Max 9;Livros;27.90;16;5.0
+P01075;Manual de finanças Lince X 3;Livros;132.90;4;4.4
+P01076;Blocos de montar Vértice X 4;Brinquedos;470.90;1;4.4
+P01077;Smartphone 128 GB Lince S 2;Celulares;37.90;13;4.5
+P01078;Smartwatch Boreal Lite 1;Celulares;112.90;2;3.4
+P01079;Guia de Python Aurora Max 6;Livros;23.90;17;4.3
+P01080;Fone bluetooth Atlas Lite 5;Celulares;128.90;12;3.9
+P01081;Smartphone 256 GB Kappa Max 9;Celulares;258.90;6;4.4
+P01082;Quebra-cabeça 1000 peças Vértice Lite 2;Brinquedos;379.90;3;4.1
+P01083;Bermuda de ciclismo Vértice Ultra 5;Esporte;452.90;1;4.4
+P01084;Webcam Full HD Zênite X 6;Informática;97.90;0;4.1
+P01085;Kit de maquiagem Vértice Ultra 1;Beleza;803.90;2;4.1
+P01086;Monitor 24 pol. Zênite S 1;Informática;44.90;0;4.2
+P01087;Notebook Aurora Pro 1;Informática;189.90;34;3.8
+P01088;Boneca articulada Kappa Max 4;Brinquedos;297.90;4;4.9
+P01089;Suporte veicular Solaris Mini 2;Celulares;71.90;15;5.0
+P01090;Hub USB-C Kappa Pro 2;Informática;130.90;444;4.6
+P01091;Tapete de yoga Lince Lite 1;Esporte;53.90;0;4.3
+P01092;Jogo de facas Orion S 5;Casa e Cozinha;1027.90;1;3.9
+P01093;Tênis de corrida Solaris Mini 3;Esporte;1609.90;26;4.8
+P01094;Alicate universal Orion S 8;Ferramentas;16.90;22;3.9
+P01095;Furadeira de impacto Vértice S 7;Ferramentas;56.90;6;5.0
+P01096;Nível a laser Lince Ultra 6;Ferramentas;112.90;3;4.9
+P01097;Tênis de corrida Solaris Ultra 1;Esporte;1943.90;25;3.8
+P01098;Pen drive 64 GB Vértice X 5;Informática;69.90;35;4.4
+P01099;Guia de Python Lince Plus 2;Livros;185.90;3;4.0
+P01100;Cafeteira Atlas X 9;Casa e Cozinha;1579.90;1;4.1
+P01101;Hidratante corporal Atlas Mini 9;Beleza;49.90;2;4.6
+P01102;Jogo de chaves Zênite X 2;Ferramentas;62.90;1;3.8
+P01103;Mochila de trilha Lince Pro 1;Esporte;89.90;3;4.4
+P01104;Tênis de corrida Orion Pro 4;Esporte;273.90;0;3.8
+P01105;Mouse sem fio Kappa S 3;Informática;519.90;0;5.0
+P01106;Notebook Vértice Ultra 8;Informática;821.90;3;3.8
+P01107;Tapete de yoga Vértice Plus 6;Esporte;33.90;0;3.6
+P01108;Hidratante corporal Lince S 5;Beleza;328.90;4;4.3
+P01109;Mouse sem fio Kappa S 3;Informática;128.90;0;4.8
+P01110;Quebra-cabeça 1000 peças Orion Mini 1;Brinquedos;58.90;1;4.4
+P01111;Pelúcia Atlas Max 9;Brinquedos;279.90;3;5.0
+P01112;Jogo de cama Solaris Plus 4;Casa e Cozinha;148.90;2;4.0
+P01113;Trena 5 m Boreal Ultra 8;Ferramentas;79.90;1;4.0
+P01114;Corda de pular Lince S 4;Esporte;801.90;37;3.2
+P01115;Monitor 24 pol. Nimbus Lite 9;Informática;3072.90;8;4.7
+P01116;Fone bluetooth Kappa Ultra 2;Celulares;210.90;0;3.6
+P01117;Kit de ciência Zênite Mini 9;Brinquedos;127.90;29;3.7
+P01118;Monitor 24 pol. Nimbus Mini 6;Informática;93.90;1;3.8
+P01119;Sérum facial Aurora Lite 9;Beleza;423.90;103;3.9
+P01120;Quebra-cabeça 1000 peças Nimbus X 7;Brinquedos;138.90;2;4.2
+P01121;Quebra-cabeça 1000 peças Kappa X 2;Brinquedos;77.90;14;4.6
+P01122;Pista de corrida Boreal Max 4;Brinquedos;29.90;6;3.2
+P01123;Esmalte Orion Plus 6;Beleza;423.90;49;4.8
+P01124;Jogo de toalhas Aurora Pro 1;Casa e Cozinha;84.90;99;4.3
+P01125;Boneca articulada Orion Lite 2;Brinquedos;105.90;2;4.5
+P01126;Tênis de corrida Lince Max 7;Esporte;53.90;5;3.9
+P01127;Drone infantil Zênite Lite 8;Brinquedos;154.90;4;4.0
+P01128;Livro infantil ilustrado Atlas S 7;Livros;165.90;1;3.5
+P01129;Livro de fantasia Boreal Plus 9;Livros;120.90;2;4.8
+P01130;Tênis de corrida Nimbus Ultra 5;Esporte;454.90;2;4.9
+P01131;Bicicleta aro 29 Zênite Pro 1;Esporte;1183.90;39;4.1
+P01132;Mouse sem fio Solaris Mini 1;Informática;984.90;2;3.6
+P01133;Hidratante corporal Boreal Lite 4;Beleza;164.90;88;3.0
+P01134;Livro de fantasia Boreal Lite 6;Livros;72.90;7;4.7
+P01135;Furadeira de impacto Nimbus Pro 2;Ferramentas;75.90;4;2.8
+P01136;Romance policial Lince Plus 9;Livros;135.90;6;4.1
+P01137;Shampoo 400 ml Nimbus Mini 7;Beleza;41.90;7;4.3
+P01138;Secador de cabelo Orion S 1;Beleza;252.90;1;3.6
+P01139;Manual de finanças Vértice Ultra 2;Livros;80.90;0;4.5
+P01140;Smartwatch Vértice S 8;Celulares;87.90;1;3.8
+P01141;Liquidificador Solaris Lite 2;Casa e Cozinha;60.90;7;3.4
+P01142;Notebook Kappa X 4;Informática;32.90;5;3.9
+P01143;Shampoo 400 ml Kappa Plus 2;Beleza;41.90;1;4.2
+P01144;Tapete de yoga Aurora Plus 9;Esporte;221.90;0;4.3
+P01145;Tapete de yoga Boreal Plus 7;Esporte;46.90;5;3.1
+P01146;Barbeador elétrico Orion Plus 9;Beleza;391.90;47;4.0
+P01147;Hub USB-C Orion Max 5;Informática;299.90;20;4.3
+P01148;Secador de cabelo Boreal S 7;Beleza;191.90;5;4.5
+P01149;Quebra-cabeça 1000 peças Solaris Max 7;Brinquedos;44.90;4;4.9
+P01150;Película de vidro Atlas Ultra 6;Celulares;461.90;6;5.0
+P01151;Prancha alisadora Boreal Lite 9;Beleza;311.90;2;4.6
+P01152;Kit de maquiagem Nimbus X 2;Beleza;75.90;108;3.4
+P01153;Atlas geográfico Vértice S 5;Livros;25.90;9;4.0
+P01154;Notebook Orion S 5;Informática;1526.90;10;4.6
+P01155;Serra tico-tico Boreal Plus 1;Ferramentas;35.90;4;4.3
+P01156;Livro de fantasia Lince Plus 6;Livros;29.90;28;3.9
+P01157;Luvas de academia Solaris Max 5;Esporte;28.90;75;4.0
+P01158;Tênis de corrida Vértice Max 8;Esporte;62.90;2;4.1
+P01159;Power bank Nimbus Lite 6;Celulares;1302.90;13;4.1
+P01160;Capa protetora Vértice Pro 8;Celulares;3791.90;80;4.3
+P01161;Bicicleta aro 29 Lince Mini 6;Esporte;313.90;6;4.2
+P01162;Liquidificador Boreal Ultra 1;Casa e Cozinha;143.90;9;4.1
+P01163;Nível a laser Lince Max 4;Ferramentas;230.90;1;4.2
+P01164;Micro-ondas Solaris Lite 1;Casa e Cozinha;190.90;6;3.4
+P01165;Nível a laser Zênite Plus 6;Ferramentas;352.90;6;3.8
+P01166;Romance policial Orion Plus 7;Livros;104.90;0;5.0
+P01167;Protetor solar FPS 50 Atlas S 6;Beleza;31.90;3;5.0
+P01168;Kit de ciência Boreal Max 5;Brinquedos;416.90;2;4.0
+P01169;Suporte veicular Solaris Lite 1;Celulares;2325.90;1;4.2
+P01170;Ventilador de mesa Nimbus Ultra 4;Casa e Cozinha;410.90;0;3.8
+P01171;Escada de alumínio Lince X 8;Ferramentas;167.90;9;3.7
+P01172;Liquidificador Kappa Plus 5;Casa e Cozinha;93.90;28;4.5
+P01173;Garrafa térmica Vértice S 3;Esporte;28.90;0;5.0
+P01174;Webcam Full HD Nimbus S 7;Informática;1319.90;35;4.7
+P01175;Blocos de montar Solaris Ultra 7;Brinquedos;605.90;11;4.2
+P01176;Teclado mecânico Atlas Lite 9;Informática;75.90;0;3.7
+P01177;Livro de fantasia Solaris Max 6;Livros;20.90;1;4.2
+P01178;Escada de alumínio Boreal Plus 9;Ferramentas;405.90;16;4.8
+P01179;Hub USB-C Atlas Lite 4;Informática;3955.90;2;3.8
+P01180;Livro de fantasia Zênite X 5;Livros;21.90;5;5.0
+P01181;Headset gamer Nimbus Pro 2;Informática;2901.90;56;4.5
+P01182;Atlas geográfico Aurora Lite 4;Livros;134.90;15;4.0
+P01183;Garrafa térmica Atlas Mini 3;Esporte;356.90;1;3.4
+P01184;Headset gamer Vértice Max 1;Informática;56.90;0;5.0
+P01185;Smartphone 128 GB Nimbus Pro 1;Celulares;212.90;12;4.3
+P01186;Mochila de trilha Aurora Pro 1;Esporte;21.90;0;4.5
+P01187;Nível a laser Vértice S 8;Ferramentas;289.90;995;4.9
+P01188;Halteres 5 kg Nimbus Ultra 6;Esporte;435.90;0;4.8
+P01189;Bola de futebol Vértice X 8;Esporte;562.90;35;4.4
+P01190;Luvas de academia Lince S 9;Esporte;629.90;2;4.0
+P01191;Bicicleta aro 29 Nimbus Max 4;Esporte;25.90;0;4.2
+P01192;Ventilador de mesa Solaris Max 6;Casa e Cozinha;69.90;0;5.0
+P01193;Bicicleta aro 29 Atlas X 2;Esporte;29.90;3;5.0
+P01194;Perfume 100 ml Aurora Plus 4;Beleza;189.90;35;5.0
+P01195;Livro de fantasia Solaris X 1;Livros;176.90;1;3.1
+P01196;Ventilador de mesa Atlas Max 3;Casa e Cozinha;1741.90;23;3.8
+P01197;Webcam Full HD Atlas X 6;Informática;2785.90;2;4.9
+P01198;Trena 5 m Orion Mini 9;Ferramentas;134.90;2;3.8
+P01199;Película de vidro Zênite S 8;Celulares;119.90;2;4.7
+P01200;Garrafa térmica Aurora Lite 5;Esporte;219.90;15;4.7
