@@ -1,0 +1,19 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Pastas de compilação e binários gerados
+bin/
+build/
+target/
+
+# Configurações do VS Code e de outras IDEs
+.vscode/
+.idea/
+*.iml
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
